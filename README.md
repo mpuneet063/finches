@@ -1,4 +1,5 @@
-# ADeLe lineages: how do open-model ability profiles evolve?
+# Finches: how do open-model ability profiles evolve?
+
 
 **Question.** The *diversity* standpoint of Hernández-Orallo et al., "The next Turing tests"
 (*Science* 393, 2026) says AI progress should be read as an evolving ecosystem of capability
