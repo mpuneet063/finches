@@ -1,0 +1,6 @@
+# Kaggle GPU notebook (torch, pandas, numpy already preinstalled there).
+# vLLM is installed separately by scripts/setup_kaggle.sh so a failed install falls back cleanly.
+transformers>=4.45
+accelerate>=0.34
+huggingface_hub>=0.24
+pyyaml>=6.0

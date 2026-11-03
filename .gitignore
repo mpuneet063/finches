@@ -1,0 +1,13 @@
+# Item text never goes into git (ADeLe leakage terms)
+data/*
+!data/subset_ids.csv
+!data/subset_coverage.csv
+responses/
+cache/
+results/correctness/ref__*.csv
+tests/_synthetic/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.env
+!data/.gitkeep
