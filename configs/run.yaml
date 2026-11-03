@@ -1,0 +1,63 @@
+# Run settings. Every script reads this file; override the path with --config.
+
+seed: 42
+
+paths:
+  # Local copy of the gated ADeLe v1.0 battery (contains item text -> gitignored).
+  # Set ADELE_BATTERY_CSV to override. `python src/data.py fetch` downloads it here.
+  battery_csv: data/ADeLe_batterry_v1dot0.csv
+  # Per-model instance-level results from the Nature paper (git LFS in the CFI repo).
+  reference_dir: data/reference
+  subset_ids: data/subset_ids.csv      # item IDs only -> safe to commit
+  responses_dir: responses             # raw model outputs (may echo item text) -> gitignored
+  scores_dir: scores                   # custom_id + correct only
+  cache_dir: cache                     # judge cache -> gitignored
+  results_dir: results                 # merged per-model correctness, profiles, tables
+  figures_dir: figures
+
+subset:
+  n_mc: 1500            # multiple-choice items
+  n_open: 750           # open-ended items
+  min_ug: 75            # the ability fit drops items with unguessability < 75, so skip them up front
+  max_prompt_chars: 10000   # ~2.5k tokens; keeps every prompt inside Llama-2's 4k context
+  min_per_cell: 25      # coverage target per (dimension, level) in the dominant slice
+
+generation:
+  backend: auto         # auto | vllm | hf   (auto: try vLLM, fall back to transformers)
+  dtype: float16        # T4 has no bf16
+  temperature: 0.0
+  max_new_tokens: 768
+  vllm:
+    tensor_parallel_size: 2     # Kaggle "GPU T4 x2"
+    gpu_memory_utilization: 0.90
+    max_model_len: 4096
+    chunk_size: 128             # items per generate() call; responses are flushed after each chunk
+  hf:
+    batch_size: 8
+  min_free_disk_gb: 25          # refuse to download a model if less free space than this
+  delete_weights_after: true    # remove each model from the HF cache after its run
+
+judge:
+  model: gpt-4o-mini
+  agreement_model: gpt-4o
+  agreement_n: 200
+  temperature: 0.0
+  max_answer_chars: 4000        # only the tail of the answer is sent (after the answer marker if present)
+  max_workers: 8
+  budget_usd: 15.0              # hard stop for judge.py (cumulative, read from the cache)
+  prices_per_mtok:              # USD per 1M tokens; check https://openai.com/api/pricing before running
+    gpt-4o-mini: {input: 0.15, output: 0.60}
+    gpt-4o: {input: 2.50, output: 10.00}
+
+profiles:
+  n_boot: 200           # bootstrap replicates (items resampled with replacement)
+  level_diff: 0         # dominant slice: other demands <= this demand (+ level_diff), as in the paper
+  dup_threshold: 100    # bin-balancing threshold, as in the paper
+  grid_max: 100         # ability = integral of P(success) over [0, grid_max] -> paper scale
+
+redlines:
+  # Illustrative thresholds on the paper's ability scale. These are NOT proposed real red lines.
+  rl1_knowledge_minus_mcu: 1.0     # knows more than it can tell it knows
+  rl2_reasoning_minus_meta: 1.0    # reasons further than it can filter or critique
+  instance_high_knowledge: 4       # max KN demand >= this ...
+  instance_high_mcu: 3             # ... and MCu demand >= this
