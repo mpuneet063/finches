@@ -1,0 +1,1501 @@
+custom_id,pred,gold,correct
+Civil Service Examination-LogiQA-en-275,B,B,1.0
+Civil Service Examination-LogiQA-en-70,C,A,0.0
+Civil Service Examination-LogiQA-en-301,B,B,1.0
+Civil Service Examination-LogiQA-en-32,C,C,1.0
+Civil Service Examination-LogiQA-en-166,C,C,1.0
+Civil Service Examination-LogiQA-en-91,C,D,0.0
+Civil Service Examination-LogiQA-en-31,D,D,1.0
+Civil Service Examination-LogiQA-en-164,B,A,0.0
+Civil Service Examination-LogiQA-en-40,D,C,0.0
+Civil Service Examination-LogiQA-en-423,C,D,0.0
+Civil Service Examination-LogiQA-en-222,C,C,1.0
+Civil Service Examination-LogiQA-en-25,A,A,1.0
+Civil Service Examination-LogiQA-en-119,C,C,1.0
+Civil Service Examination-LogiQA-en-134,S,C,0.0
+Civil Service Examination-LogiQA-en-71,C,D,0.0
+Civil Service Examination-LogiQA-en-133,B,B,1.0
+Civil Service Examination-LogiQA-en-555,D,D,1.0
+Civil Service Examination-LogiQA-en-621,C,A,0.0
+Civil Service Examination-LogiQA-en-136,B,C,0.0
+Civil Service Examination-LogiQA-en-452,A,A,1.0
+Civil Service Examination-LogiQA-en-300,A,C,0.0
+Civil Service Examination-LogiQA-en-293,B,A,0.0
+Civil Service Examination-LogiQA-en-327,A,A,1.0
+Civil Service Examination-LogiQA-en-347,A,A,1.0
+Civil Service Examination-LogiQA-en-611,D,C,0.0
+Civil Service Examination-LogiQA-en-606,D,B,0.0
+Civil Service Examination-LogiQA-en-438,B,A,0.0
+Civil Service Examination-LogiQA-en-312,C,C,1.0
+Civil Service Examination-LogiQA-en-518,D,B,0.0
+Civil Service Examination-LogiQA-en-291,B,A,0.0
+Civil Service Examination-LogiQA-en-285,B,B,1.0
+Civil Service Examination-LogiQA-en-635,C,A,0.0
+Civil Service Examination-LogiQA-en-604,B,A,0.0
+Civil Service Examination-LogiQA-en-585,A,A,1.0
+Civil Service Examination-LogiQA-en-80,A,A,1.0
+Civil Service Examination-LogiQA-en-236,D,A,0.0
+Civil Service Examination-LogiQA-en-245,S,D,0.0
+Civil Service Examination-LogiQA-en-358,D,D,1.0
+Civil Service Examination-LogiQA-en-204,B,D,0.0
+Civil Service Examination-LogiQA-en-197,S,A,0.0
+Civil Service Examination-LogiQA-en-409,A,D,0.0
+Civil Service Examination-LogiQA-en-594,D,B,0.0
+Civil Service Examination-LogiQA-en-185,S,B,0.0
+Civil Service Examination-LogiQA-en-524,C,C,1.0
+Civil Service Examination-LogiQA-en-609,D,C,0.0
+Civil Service Examination-LogiQA-en-76,C,C,1.0
+Civil Service Examination-LogiQA-en-34,B,D,0.0
+Civil Service Examination-LogiQA-en-1,A,A,1.0
+Civil Service Examination-LogiQA-en-644,S,C,0.0
+Civil Service Examination-LogiQA-en-501,S,A,0.0
+Civil Service Examination-LogiQA-en-19,C,B,0.0
+Civil Service Examination-LogiQA-en-651,S,D,0.0
+Civil Service Examination-LogiQA-en-364,D,B,0.0
+Civil Service Examination-LogiQA-en-13,A,A,1.0
+Civil Service Examination-LogiQA-en-478,D,B,0.0
+Civil Service Examination-LogiQA-en-223,B,B,1.0
+Civil Service Examination-LogiQA-en-638,D,B,0.0
+Civil Service Examination-LogiQA-en-6,B,B,1.0
+Civil Service Examination-LogiQA-en-363,A,D,0.0
+Civil Service Examination-LogiQA-en-512,D,B,0.0
+Civil Service Examination-LogiQA-en-264,C,C,1.0
+Civil Service Examination-LogiQA-en-548,S,B,0.0
+Civil Service Examination-LogiQA-en-227,B,B,1.0
+Civil Service Examination-LogiQA-en-494,B,C,0.0
+Civil Service Examination-LogiQA-en-487,D,D,1.0
+Civil Service Examination-LogiQA-en-437,B,B,1.0
+Civil Service Examination-LogiQA-en-597,S,D,0.0
+Civil Service Examination-LogiQA-en-617,C,C,1.0
+Civil Service Examination-LogiQA-en-575,B,D,0.0
+Civil Service Examination-LogiQA-en-308,A,A,1.0
+Civil Service Examination-LogiQA-en-603,B,A,0.0
+Civil Service Examination-LogiQA-en-577,D,D,1.0
+Civil Service Examination-LogiQA-en-549,B,A,0.0
+Civil Service Examination-LogiQA-en-280,C,C,1.0
+Civil Service Examination-LogiQA-en-294,D,B,0.0
+Civil Service Examination-LogiQA-en-541,C,C,1.0
+Civil Service Examination-LogiQA-en-343,A,A,1.0
+Civil Service Examination-LogiQA-en-532,C,B,0.0
+Civil Service Examination-LogiQA-en-374,A,A,1.0
+Civil Service Examination-LogiQA-en-152,A,C,0.0
+Civil Service Examination-LogiQA-en-318,D,D,1.0
+GRE & GMAT-AQuA-RAT-202,C,C,1.0
+GRE & GMAT-AQuA-RAT-168,D,A,0.0
+GRE & GMAT-AQuA-RAT-181,D,D,1.0
+GRE & GMAT-AQuA-RAT-221,B,B,1.0
+GRE & GMAT-AQuA-RAT-25,D,D,1.0
+GRE & GMAT-AQuA-RAT-234,A,A,1.0
+GRE & GMAT-AQuA-RAT-121,E,E,1.0
+GRE & GMAT-AQuA-RAT-125,E,E,1.0
+GRE & GMAT-AQuA-RAT-243,A,A,1.0
+GRE & GMAT-AQuA-RAT-98,E,E,1.0
+GRE & GMAT-AQuA-RAT-149,A,A,1.0
+GRE & GMAT-AQuA-RAT-67,E,C,0.0
+GRE & GMAT-AQuA-RAT-207,C,C,1.0
+GRE & GMAT-AQuA-RAT-178,D,D,1.0
+GRE & GMAT-AQuA-RAT-39,D,D,1.0
+GRE & GMAT-AQuA-RAT-219,E,E,1.0
+GRE & GMAT-AQuA-RAT-61,E,E,1.0
+GRE & GMAT-AQuA-RAT-248,A,E,0.0
+GRE & GMAT-AQuA-RAT-109,D,D,1.0
+GRE & GMAT-AQuA-RAT-179,C,C,1.0
+GRE & GMAT-AQuA-RAT-142,B,B,1.0
+GRE & GMAT-AQuA-RAT-110,S,B,0.0
+GRE & GMAT-AQuA-RAT-116,B,C,0.0
+GRE & GMAT-AQuA-RAT-30,A,A,1.0
+GRE & GMAT-AQuA-RAT-171,E,E,1.0
+GRE & GMAT-AQuA-RAT-112,D,D,1.0
+GRE & GMAT-AQuA-RAT-6,D,D,1.0
+GRE & GMAT-AQuA-RAT-187,D,D,1.0
+GRE & GMAT-AQuA-RAT-236,A,A,1.0
+GRE & GMAT-AQuA-RAT-32,A,A,1.0
+GRE & GMAT-AQuA-RAT-36,A,A,1.0
+GRE & GMAT-AQuA-RAT-23,D,E,0.0
+GRE & GMAT-AQuA-RAT-174,S,C,0.0
+GRE & GMAT-AQuA-RAT-250,D,D,1.0
+GRE & GMAT-AQuA-RAT-52,C,C,1.0
+GRE & GMAT-AQuA-RAT-96,B,A,0.0
+GRE & GMAT-AQuA-RAT-27,C,C,1.0
+GRE & GMAT-AQuA-RAT-169,A,A,1.0
+GRE & GMAT-AQuA-RAT-119,C,A,0.0
+GRE & GMAT-AQuA-RAT-193,B,B,1.0
+GRE & GMAT-AQuA-RAT-141,E,E,1.0
+GRE & GMAT-AQuA-RAT-3,A,A,1.0
+GRE & GMAT-AQuA-RAT-205,C,C,1.0
+GRE & GMAT-AQuA-RAT-184,D,D,1.0
+GRE & GMAT-AQuA-RAT-143,B,B,1.0
+GRE & GMAT-AQuA-RAT-5,B,B,1.0
+GRE & GMAT-AQuA-RAT-139,C,C,1.0
+GRE & GMAT-AQuA-RAT-231,D,D,1.0
+GRE & GMAT-AQuA-RAT-45,B,B,1.0
+GRE & GMAT-AQuA-RAT-227,A,A,1.0
+GRE & GMAT-AQuA-RAT-82,A,A,1.0
+GRE & GMAT-AQuA-RAT-146,S,E,0.0
+GRE & GMAT-AQuA-RAT-50,B,B,1.0
+GRE & GMAT-AQuA-RAT-35,B,B,1.0
+GRE & GMAT-AQuA-RAT-8,C,C,1.0
+GRE & GMAT-AQuA-RAT-172,E,E,1.0
+GRE & GMAT-AQuA-RAT-14,D,D,1.0
+GRE & GMAT-AQuA-RAT-220,D,D,1.0
+GRE & GMAT-AQuA-RAT-132,C,C,1.0
+GRE & GMAT-AQuA-RAT-235,B,B,1.0
+GRE & GMAT-AQuA-RAT-175,D,D,1.0
+GRE & GMAT-AQuA-RAT-213,A,A,1.0
+GRE & GMAT-AQuA-RAT-59,E,D,0.0
+GRE & GMAT-AQuA-RAT-89,B,B,1.0
+GRE & GMAT-AQuA-RAT-22,A,A,1.0
+GRE & GMAT-AQuA-RAT-88,B,B,1.0
+GRE & GMAT-AQuA-RAT-203,B,B,1.0
+GRE & GMAT-AQuA-RAT-211,E,E,1.0
+GRE & GMAT-AQuA-RAT-122,B,B,1.0
+GRE & GMAT-AQuA-RAT-72,S,A,0.0
+LSAT-LSAT-AR-200,S,E,0.0
+LSAT-LSAT-AR-155,B,E,0.0
+LSAT-LSAT-AR-97,S,E,0.0
+LSAT-LSAT-AR-138,D,D,1.0
+LSAT-LSAT-AR-31,S,A,0.0
+LSAT-LSAT-AR-181,S,C,0.0
+LSAT-LSAT-AR-102,B,D,0.0
+LSAT-LSAT-AR-105,S,A,0.0
+LSAT-LSAT-AR-151,S,E,0.0
+LSAT-LSAT-AR-140,S,D,0.0
+LSAT-LSAT-AR-13,S,E,0.0
+LSAT-LSAT-AR-77,C,A,0.0
+LSAT-LSAT-AR-78,A,C,0.0
+LSAT-LSAT-AR-101,S,B,0.0
+LSAT-LSAT-AR-165,S,B,0.0
+LSAT-LSAT-AR-86,S,D,0.0
+LSAT-LSAT-AR-37,D,A,0.0
+LSAT-LSAT-AR-182,B,B,1.0
+LSAT-LSAT-AR-210,S,B,0.0
+LSAT-LSAT-AR-34,B,C,0.0
+LSAT-LSAT-AR-123,A,B,0.0
+LSAT-LSAT-AR-63,S,C,0.0
+LSAT-LSAT-AR-65,S,D,0.0
+LSAT-LSAT-AR-171,A,A,1.0
+LSAT-LSAT-AR-95,C,B,0.0
+LSAT-LSAT-AR-35,E,C,0.0
+LSAT-LSAT-AR-8,S,A,0.0
+LSAT-LSAT-AR-167,S,B,0.0
+LSAT-LSAT-AR-135,A,B,0.0
+LSAT-LSAT-AR-64,S,B,0.0
+LSAT-LSAT-AR-191,S,E,0.0
+LSAT-LSAT-AR-89,B,A,0.0
+LSAT-LSAT-AR-58,D,C,0.0
+LSAT-LSAT-AR-130,S,B,0.0
+LSAT-LSAT-AR-158,S,B,0.0
+LSAT-LSAT-AR-215,S,A,0.0
+LSAT-LSAT-AR-122,C,A,0.0
+LSAT-LSAT-AR-93,E,C,0.0
+LSAT-LSAT-AR-103,B,B,1.0
+LSAT-LSAT-LR-450,E,A,0.0
+LSAT-LSAT-LR-348,E,E,1.0
+LSAT-LSAT-LR-276,B,D,0.0
+LSAT-LSAT-LR-10,C,A,0.0
+LSAT-LSAT-LR-409,A,A,1.0
+LSAT-LSAT-LR-132,D,D,1.0
+LSAT-LSAT-LR-226,B,B,1.0
+LSAT-LSAT-LR-34,D,D,1.0
+LSAT-LSAT-LR-80,E,C,0.0
+LSAT-LSAT-LR-79,E,A,0.0
+LSAT-LSAT-LR-475,B,B,1.0
+LSAT-LSAT-LR-461,D,A,0.0
+LSAT-LSAT-LR-359,B,B,1.0
+LSAT-LSAT-LR-245,C,E,0.0
+LSAT-LSAT-LR-299,B,D,0.0
+LSAT-LSAT-LR-486,C,C,1.0
+LSAT-LSAT-LR-204,B,B,1.0
+LSAT-LSAT-LR-239,D,A,0.0
+LSAT-LSAT-LR-406,B,D,0.0
+LSAT-LSAT-LR-26,B,B,1.0
+LSAT-LSAT-LR-317,D,D,1.0
+LSAT-LSAT-LR-423,E,E,1.0
+LSAT-LSAT-LR-403,C,C,1.0
+LSAT-LSAT-LR-24,D,C,0.0
+LSAT-LSAT-LR-117,E,B,0.0
+LSAT-LSAT-LR-17,A,D,0.0
+LSAT-LSAT-LR-483,E,E,1.0
+LSAT-LSAT-LR-61,E,E,1.0
+LSAT-LSAT-LR-27,C,C,1.0
+LSAT-LSAT-LR-115,C,D,0.0
+LSAT-LSAT-LR-262,E,E,1.0
+LSAT-LSAT-LR-194,C,C,1.0
+LSAT-LSAT-LR-417,A,A,1.0
+LSAT-LSAT-LR-305,A,D,0.0
+LSAT-LSAT-LR-408,B,C,0.0
+LSAT-LSAT-LR-90,E,E,1.0
+LSAT-LSAT-LR-368,B,A,0.0
+LSAT-LSAT-LR-185,B,B,1.0
+LSAT-LSAT-LR-199,E,D,0.0
+LSAT-LSAT-LR-313,E,E,1.0
+LSAT-LSAT-LR-376,C,C,1.0
+LSAT-LSAT-LR-98,A,A,1.0
+LSAT-LSAT-LR-489,C,C,1.0
+LSAT-LSAT-LR-429,A,E,0.0
+LSAT-LSAT-LR-478,C,A,0.0
+LSAT-LSAT-LR-356,A,A,1.0
+LSAT-LSAT-LR-332,B,B,1.0
+LSAT-LSAT-LR-134,B,B,1.0
+LSAT-LSAT-LR-66,E,E,1.0
+LSAT-LSAT-LR-392,C,C,1.0
+LSAT-LSAT-LR-222,C,C,1.0
+LSAT-LSAT-LR-52,D,D,1.0
+LSAT-LSAT-LR-42,C,E,0.0
+LSAT-LSAT-LR-257,D,D,1.0
+LSAT-LSAT-LR-509,C,D,0.0
+LSAT-LSAT-LR-214,B,C,0.0
+LSAT-LSAT-LR-62,D,D,1.0
+LSAT-LSAT-LR-33,C,C,1.0
+LSAT-LSAT-LR-163,B,A,0.0
+LSAT-LSAT-LR-434,A,A,1.0
+LSAT-LSAT-LR-217,B,B,1.0
+LSAT-LSAT-LR-252,D,B,0.0
+LSAT-LSAT-LR-202,D,D,1.0
+LSAT-LSAT-LR-191,D,D,1.0
+LSAT-LSAT-LR-264,A,A,1.0
+LSAT-LSAT-LR-265,E,A,0.0
+LSAT-LSAT-LR-316,E,E,1.0
+LSAT-LSAT-LR-503,E,B,0.0
+LSAT-LSAT-LR-55,D,B,0.0
+LSAT-LSAT-LR-236,A,A,1.0
+LSAT-LSAT-LR-22,D,D,1.0
+LSAT-LSAT-LR-460,B,D,0.0
+LSAT-LSAT-LR-309,B,B,1.0
+LSAT-LSAT-LR-88,B,B,1.0
+LSAT-LSAT-LR-215,C,C,1.0
+LSAT-LSAT-RC-105,A,A,1.0
+LSAT-LSAT-RC-7,B,B,1.0
+LSAT-LSAT-RC-259,B,E,0.0
+LSAT-LSAT-RC-243,A,A,1.0
+LSAT-LSAT-RC-163,E,E,1.0
+LSAT-LSAT-RC-98,D,D,1.0
+LSAT-LSAT-RC-39,B,D,0.0
+LSAT-LSAT-RC-244,A,D,0.0
+LSAT-LSAT-RC-93,C,C,1.0
+LSAT-LSAT-RC-97,A,D,0.0
+LSAT-LSAT-RC-234,C,C,1.0
+LSAT-LSAT-RC-245,B,B,1.0
+LSAT-LSAT-RC-66,E,E,1.0
+LSAT-LSAT-RC-169,D,D,1.0
+LSAT-LSAT-RC-133,C,B,0.0
+LSAT-LSAT-RC-42,B,B,1.0
+LSAT-LSAT-RC-212,E,B,0.0
+LSAT-LSAT-RC-264,D,D,1.0
+LSAT-LSAT-RC-101,D,D,1.0
+LSAT-LSAT-RC-160,A,B,0.0
+LSAT-LSAT-RC-48,D,D,1.0
+LSAT-LSAT-RC-44,A,A,1.0
+LSAT-LSAT-RC-35,B,B,1.0
+LSAT-LSAT-RC-235,A,C,0.0
+LSAT-LSAT-RC-84,B,B,1.0
+LSAT-LSAT-RC-9,B,B,1.0
+LSAT-LSAT-RC-73,E,E,1.0
+LSAT-LSAT-RC-190,B,B,1.0
+LSAT-LSAT-RC-219,D,D,1.0
+LSAT-LSAT-RC-89,B,B,1.0
+LSAT-LSAT-RC-58,D,A,0.0
+MCTACO-MCTACO-798,A,A,1.0
+MCTACO-MCTACO-790,A,B,0.0
+MCTACO-MCTACO-699,A,A,1.0
+MCTACO-MCTACO-445,D,D,1.0
+MCTACO-MCTACO-347,C,C,1.0
+MCTACO-MCTACO-496,S,C,0.0
+MCTACO-MCTACO-236,S,A,0.0
+MCTACO-MCTACO-291,C,B,0.0
+MCTACO-MCTACO-848,A,A,1.0
+MCTACO-MCTACO-364,S,A,0.0
+MCTACO-MCTACO-381,S,A,0.0
+MCTACO-MCTACO-378,A,A,1.0
+MCTACO-MCTACO-500,B,B,1.0
+MCTACO-MCTACO-214,B,B,1.0
+MCTACO-MCTACO-810,A,A,1.0
+MCTACO-MCTACO-440,C,C,1.0
+MCTACO-MCTACO-698,B,B,1.0
+MCTACO-MCTACO-487,D,B,0.0
+MCTACO-MCTACO-394,B,B,1.0
+MCTACO-MCTACO-755,A,A,1.0
+MCTACO-MCTACO-159,B,B,1.0
+MCTACO-MCTACO-71,C,A,0.0
+MCTACO-MCTACO-448,A,A,1.0
+MCTACO-MCTACO-42,A,A,1.0
+MCTACO-MCTACO-265,S,A,0.0
+MCTACO-MCTACO-307,C,C,1.0
+MCTACO-MCTACO-369,A,A,1.0
+MCTACO-MCTACO-494,S,B,0.0
+MCTACO-MCTACO-105,A,A,1.0
+MCTACO-MCTACO-115,C,C,1.0
+MCTACO-MCTACO-363,B,B,1.0
+MCTACO-MCTACO-95,S,C,0.0
+MCTACO-MCTACO-745,B,B,1.0
+MCTACO-MCTACO-585,A,A,1.0
+MCTACO-MCTACO-532,B,B,1.0
+MCTACO-MCTACO-223,B,B,1.0
+MCTACO-MCTACO-325,C,C,1.0
+MCTACO-MCTACO-23,S,B,0.0
+MCTACO-MCTACO-712,A,A,1.0
+MCTACO-MCTACO-204,A,A,1.0
+MCTACO-MCTACO-531,A,A,1.0
+MCTACO-MCTACO-637,B,B,1.0
+MCTACO-MCTACO-1,S,B,0.0
+MCTACO-MCTACO-539,S,B,0.0
+MCTACO-MCTACO-308,A,A,1.0
+MCTACO-MCTACO-713,D,A,0.0
+MCTACO-MCTACO-444,B,B,1.0
+MCTACO-MCTACO-804,C,C,1.0
+MCTACO-MCTACO-354,A,A,1.0
+MCTACO-MCTACO-471,C,C,1.0
+MCTACO-MCTACO-817,A,A,1.0
+MCTACO-MCTACO-313,D,A,0.0
+MCTACO-MCTACO-13,A,A,1.0
+MMLU-Pro-biology-501,D,D,1.0
+MMLU-Pro-biology-79,F,F,1.0
+MMLU-Pro-biology-209,A,G,0.0
+MMLU-Pro-biology-266,G,G,1.0
+MMLU-Pro-biology-429,I,I,1.0
+MMLU-Pro-biology-77,G,G,1.0
+MMLU-Pro-biology-413,D,A,0.0
+MMLU-Pro-biology-91,G,G,1.0
+MMLU-Pro-biology-370,G,G,1.0
+MMLU-Pro-biology-42,F,D,0.0
+MMLU-Pro-biology-587,D,D,1.0
+MMLU-Pro-biology-644,F,F,1.0
+MMLU-Pro-biology-8,F,F,1.0
+MMLU-Pro-biology-537,E,E,1.0
+MMLU-Pro-biology-168,B,B,1.0
+MMLU-Pro-biology-339,G,G,1.0
+MMLU-Pro-biology-427,A,J,0.0
+MMLU-Pro-biology-178,G,I,0.0
+MMLU-Pro-biology-495,J,J,1.0
+MMLU-Pro-biology-551,E,J,0.0
+MMLU-Pro-biology-138,S,C,0.0
+MMLU-Pro-biology-520,B,B,1.0
+MMLU-Pro-biology-108,C,B,0.0
+MMLU-Pro-biology-150,G,G,1.0
+MMLU-Pro-biology-707,D,D,1.0
+MMLU-Pro-biology-114,J,J,1.0
+MMLU-Pro-biology-174,I,I,1.0
+MMLU-Pro-biology-452,F,F,1.0
+MMLU-Pro-biology-6,A,A,1.0
+MMLU-Pro-biology-421,H,B,0.0
+MMLU-Pro-biology-27,I,I,1.0
+MMLU-Pro-biology-471,A,A,1.0
+MMLU-Pro-biology-481,F,F,1.0
+MMLU-Pro-biology-420,S,B,0.0
+MMLU-Pro-biology-208,B,B,1.0
+MMLU-Pro-business-353,D,I,0.0
+MMLU-Pro-business-301,A,D,0.0
+MMLU-Pro-business-549,D,D,1.0
+MMLU-Pro-business-68,A,E,0.0
+MMLU-Pro-business-395,A,C,0.0
+MMLU-Pro-business-357,A,H,0.0
+MMLU-Pro-business-591,A,B,0.0
+MMLU-Pro-business-528,A,A,1.0
+MMLU-Pro-business-31,E,E,1.0
+MMLU-Pro-business-32,H,H,1.0
+MMLU-Pro-business-478,I,J,0.0
+MMLU-Pro-business-654,B,B,1.0
+MMLU-Pro-business-445,I,C,0.0
+MMLU-Pro-business-193,G,G,1.0
+MMLU-Pro-business-119,C,C,1.0
+MMLU-Pro-business-573,I,I,1.0
+MMLU-Pro-business-337,A,E,0.0
+MMLU-Pro-business-625,J,J,1.0
+MMLU-Pro-business-240,G,C,0.0
+MMLU-Pro-business-82,E,E,1.0
+MMLU-Pro-business-73,I,I,1.0
+MMLU-Pro-business-498,G,G,1.0
+MMLU-Pro-business-598,H,H,1.0
+MMLU-Pro-business-649,H,H,1.0
+MMLU-Pro-business-532,B,H,0.0
+MMLU-Pro-business-102,A,I,0.0
+MMLU-Pro-business-735,D,D,1.0
+MMLU-Pro-business-726,I,I,1.0
+MMLU-Pro-business-214,I,I,1.0
+MMLU-Pro-business-70,D,D,1.0
+MMLU-Pro-business-303,B,B,1.0
+MMLU-Pro-business-519,C,C,1.0
+MMLU-Pro-business-136,B,J,0.0
+MMLU-Pro-business-213,B,B,1.0
+MMLU-Pro-business-429,J,C,0.0
+MMLU-Pro-business-724,G,G,1.0
+MMLU-Pro-business-183,E,E,1.0
+MMLU-Pro-business-177,I,I,1.0
+MMLU-Pro-business-75,S,E,0.0
+MMLU-Pro-business-394,H,D,0.0
+MMLU-Pro-business-753,G,G,1.0
+MMLU-Pro-business-526,S,F,0.0
+MMLU-Pro-business-179,F,B,0.0
+MMLU-Pro-business-555,I,I,1.0
+MMLU-Pro-business-502,A,H,0.0
+MMLU-Pro-business-780,S,I,0.0
+MMLU-Pro-business-325,J,J,1.0
+MMLU-Pro-business-23,A,E,0.0
+MMLU-Pro-business-681,F,F,1.0
+MMLU-Pro-business-272,J,J,1.0
+MMLU-Pro-business-126,E,E,1.0
+MMLU-Pro-business-117,A,I,0.0
+MMLU-Pro-business-275,A,A,1.0
+MMLU-Pro-business-722,E,E,1.0
+MMLU-Pro-business-311,A,A,1.0
+MMLU-Pro-business-350,G,G,1.0
+MMLU-Pro-business-108,C,C,1.0
+MMLU-Pro-business-727,B,B,1.0
+MMLU-Pro-business-466,A,F,0.0
+MMLU-Pro-business-418,A,B,0.0
+MMLU-Pro-business-761,G,G,1.0
+MMLU-Pro-business-264,I,I,1.0
+MMLU-Pro-business-313,T,F,0.0
+MMLU-Pro-business-391,E,E,1.0
+MMLU-Pro-business-736,I,I,1.0
+MMLU-Pro-business-26,F,J,0.0
+MMLU-Pro-business-299,I,I,1.0
+MMLU-Pro-business-543,C,C,1.0
+MMLU-Pro-business-450,G,G,1.0
+MMLU-Pro-business-174,C,E,0.0
+MMLU-Pro-business-474,G,G,1.0
+MMLU-Pro-business-716,J,J,1.0
+MMLU-Pro-chemistry-514,C,C,1.0
+MMLU-Pro-chemistry-812,B,B,1.0
+MMLU-Pro-chemistry-637,M,C,0.0
+MMLU-Pro-chemistry-320,I,I,1.0
+MMLU-Pro-chemistry-550,A,B,0.0
+MMLU-Pro-chemistry-313,G,G,1.0
+MMLU-Pro-chemistry-925,B,B,1.0
+MMLU-Pro-chemistry-821,A,C,0.0
+MMLU-Pro-chemistry-867,G,D,0.0
+MMLU-Pro-chemistry-67,G,G,1.0
+MMLU-Pro-chemistry-715,A,F,0.0
+MMLU-Pro-chemistry-383,J,J,1.0
+MMLU-Pro-chemistry-827,J,J,1.0
+MMLU-Pro-chemistry-937,J,J,1.0
+MMLU-Pro-chemistry-535,E,E,1.0
+MMLU-Pro-chemistry-722,F,F,1.0
+MMLU-Pro-chemistry-282,B,B,1.0
+MMLU-Pro-chemistry-885,A,A,1.0
+MMLU-Pro-chemistry-651,S,B,0.0
+MMLU-Pro-chemistry-866,K,E,0.0
+MMLU-Pro-chemistry-311,R,H,0.0
+MMLU-Pro-chemistry-480,A,B,0.0
+MMLU-Pro-chemistry-990,R,B,0.0
+MMLU-Pro-chemistry-255,D,E,0.0
+MMLU-Pro-chemistry-949,J,A,0.0
+MMLU-Pro-chemistry-200,I,I,1.0
+MMLU-Pro-chemistry-214,S,H,0.0
+MMLU-Pro-chemistry-536,A,E,0.0
+MMLU-Pro-chemistry-597,I,I,1.0
+MMLU-Pro-chemistry-3,B,B,1.0
+MMLU-Pro-chemistry-34,I,I,1.0
+MMLU-Pro-chemistry-466,C,C,1.0
+MMLU-Pro-chemistry-632,G,G,1.0
+MMLU-Pro-chemistry-524,D,D,1.0
+MMLU-Pro-chemistry-82,H,D,0.0
+MMLU-Pro-chemistry-798,D,F,0.0
+MMLU-Pro-chemistry-441,I,I,1.0
+MMLU-Pro-chemistry-80,A,A,1.0
+MMLU-Pro-chemistry-704,D,D,1.0
+MMLU-Pro-chemistry-707,G,B,0.0
+MMLU-Pro-chemistry-553,N,I,0.0
+MMLU-Pro-chemistry-904,E,E,1.0
+MMLU-Pro-chemistry-91,B,B,1.0
+MMLU-Pro-chemistry-301,B,A,0.0
+MMLU-Pro-chemistry-327,C,C,1.0
+MMLU-Pro-chemistry-501,D,D,1.0
+MMLU-Pro-chemistry-775,C,H,0.0
+MMLU-Pro-chemistry-109,R,G,0.0
+MMLU-Pro-chemistry-589,F,F,1.0
+MMLU-Pro-chemistry-998,B,C,0.0
+MMLU-Pro-chemistry-25,C,J,0.0
+MMLU-Pro-chemistry-927,G,C,0.0
+MMLU-Pro-chemistry-711,G,G,1.0
+MMLU-Pro-chemistry-519,A,A,1.0
+MMLU-Pro-chemistry-90,N,E,0.0
+MMLU-Pro-chemistry-989,G,G,1.0
+MMLU-Pro-chemistry-934,A,E,0.0
+MMLU-Pro-chemistry-883,D,E,0.0
+MMLU-Pro-computer science-384,A,I,0.0
+MMLU-Pro-computer science-105,N,H,0.0
+MMLU-Pro-computer science-230,B,A,0.0
+MMLU-Pro-computer science-16,E,E,1.0
+MMLU-Pro-computer science-269,J,B,0.0
+MMLU-Pro-computer science-338,H,H,1.0
+MMLU-Pro-computer science-83,B,B,1.0
+MMLU-Pro-computer science-325,F,E,0.0
+MMLU-Pro-computer science-379,E,E,1.0
+MMLU-Pro-computer science-102,C,C,1.0
+MMLU-Pro-computer science-125,G,B,0.0
+MMLU-Pro-computer science-67,I,I,1.0
+MMLU-Pro-computer science-154,B,B,1.0
+MMLU-Pro-computer science-358,A,A,1.0
+MMLU-Pro-computer science-306,A,A,1.0
+MMLU-Pro-computer science-281,B,B,1.0
+MMLU-Pro-computer science-334,D,D,1.0
+MMLU-Pro-computer science-110,D,D,1.0
+MMLU-Pro-computer science-323,A,I,0.0
+MMLU-Pro-computer science-246,H,B,0.0
+MMLU-Pro-computer science-251,S,D,0.0
+MMLU-Pro-computer science-98,S,G,0.0
+MMLU-Pro-computer science-273,D,D,1.0
+MMLU-Pro-computer science-266,C,C,1.0
+MMLU-Pro-computer science-180,E,E,1.0
+MMLU-Pro-computer science-284,F,F,1.0
+MMLU-Pro-computer science-369,B,B,1.0
+MMLU-Pro-computer science-165,D,D,1.0
+MMLU-Pro-computer science-357,J,J,1.0
+MMLU-Pro-computer science-339,,I,0.0
+MMLU-Pro-computer science-134,F,F,1.0
+MMLU-Pro-computer science-160,D,B,0.0
+MMLU-Pro-computer science-29,C,D,0.0
+MMLU-Pro-computer science-279,A,F,0.0
+MMLU-Pro-computer science-5,C,C,1.0
+MMLU-Pro-computer science-227,C,C,1.0
+MMLU-Pro-computer science-293,A,C,0.0
+MMLU-Pro-computer science-365,C,C,1.0
+MMLU-Pro-computer science-301,I,F,0.0
+MMLU-Pro-computer science-376,T,F,0.0
+MMLU-Pro-computer science-175,I,E,0.0
+MMLU-Pro-computer science-386,B,B,1.0
+MMLU-Pro-computer science-215,D,D,1.0
+MMLU-Pro-economics-369,F,B,0.0
+MMLU-Pro-economics-339,C,C,1.0
+MMLU-Pro-economics-358,A,A,1.0
+MMLU-Pro-economics-111,E,E,1.0
+MMLU-Pro-economics-839,F,F,1.0
+MMLU-Pro-economics-351,D,D,1.0
+MMLU-Pro-economics-546,H,H,1.0
+MMLU-Pro-economics-651,I,I,1.0
+MMLU-Pro-economics-193,D,J,0.0
+MMLU-Pro-economics-496,F,F,1.0
+MMLU-Pro-economics-487,D,D,1.0
+MMLU-Pro-economics-363,A,A,1.0
+MMLU-Pro-economics-448,F,F,1.0
+MMLU-Pro-economics-507,A,H,0.0
+MMLU-Pro-economics-300,I,I,1.0
+MMLU-Pro-economics-70,B,F,0.0
+MMLU-Pro-economics-166,D,D,1.0
+MMLU-Pro-economics-165,G,F,0.0
+MMLU-Pro-economics-602,E,E,1.0
+MMLU-Pro-economics-832,A,A,1.0
+MMLU-Pro-economics-383,E,E,1.0
+MMLU-Pro-economics-183,E,E,1.0
+MMLU-Pro-economics-454,,I,0.0
+MMLU-Pro-economics-619,A,D,0.0
+MMLU-Pro-economics-744,G,G,1.0
+MMLU-Pro-economics-168,G,G,1.0
+MMLU-Pro-economics-645,D,D,1.0
+MMLU-Pro-economics-587,B,A,0.0
+MMLU-Pro-economics-558,D,G,0.0
+MMLU-Pro-economics-204,G,G,1.0
+MMLU-Pro-economics-94,B,B,1.0
+MMLU-Pro-economics-76,G,I,0.0
+MMLU-Pro-economics-531,A,D,0.0
+MMLU-Pro-economics-145,J,J,1.0
+MMLU-Pro-economics-673,C,C,1.0
+MMLU-Pro-economics-603,A,I,0.0
+MMLU-Pro-economics-180,B,B,1.0
+MMLU-Pro-economics-733,D,D,1.0
+MMLU-Pro-economics-354,D,D,1.0
+MMLU-Pro-economics-676,D,D,1.0
+MMLU-Pro-economics-321,H,H,1.0
+MMLU-Pro-economics-306,H,H,1.0
+MMLU-Pro-economics-627,H,H,1.0
+MMLU-Pro-economics-533,I,C,0.0
+MMLU-Pro-engineering-71,H,A,0.0
+MMLU-Pro-engineering-486,A,H,0.0
+MMLU-Pro-engineering-571,I,B,0.0
+MMLU-Pro-engineering-530,A,I,0.0
+MMLU-Pro-engineering-169,F,A,0.0
+MMLU-Pro-engineering-724,D,D,1.0
+MMLU-Pro-engineering-667,S,J,0.0
+MMLU-Pro-engineering-210,M,E,0.0
+MMLU-Pro-engineering-67,A,C,0.0
+MMLU-Pro-engineering-522,S,F,0.0
+MMLU-Pro-engineering-823,A,F,0.0
+MMLU-Pro-engineering-607,M,D,0.0
+MMLU-Pro-engineering-912,D,D,1.0
+MMLU-Pro-engineering-968,F,I,0.0
+MMLU-Pro-engineering-409,A,C,0.0
+MMLU-Pro-engineering-742,A,B,0.0
+MMLU-Pro-engineering-200,F,A,0.0
+MMLU-Pro-engineering-358,F,C,0.0
+MMLU-Pro-engineering-849,W,G,0.0
+MMLU-Pro-engineering-166,A,F,0.0
+MMLU-Pro-engineering-142,F,D,0.0
+MMLU-Pro-engineering-255,T,H,0.0
+MMLU-Pro-engineering-282,B,B,1.0
+MMLU-Pro-engineering-755,H,H,1.0
+MMLU-Pro-engineering-948,F,E,0.0
+MMLU-Pro-engineering-6,F,B,0.0
+MMLU-Pro-engineering-617,B,E,0.0
+MMLU-Pro-engineering-26,S,D,0.0
+MMLU-Pro-engineering-11,X,H,0.0
+MMLU-Pro-engineering-281,A,E,0.0
+MMLU-Pro-engineering-896,Y,G,0.0
+MMLU-Pro-engineering-30,C,J,0.0
+MMLU-Pro-engineering-212,A,A,1.0
+MMLU-Pro-engineering-228,C,E,0.0
+MMLU-Pro-engineering-771,A,F,0.0
+MMLU-Pro-engineering-317,A,G,0.0
+MMLU-Pro-engineering-312,A,C,0.0
+MMLU-Pro-engineering-789,S,J,0.0
+MMLU-Pro-engineering-712,F,F,1.0
+MMLU-Pro-engineering-729,F,F,1.0
+MMLU-Pro-engineering-132,A,E,0.0
+MMLU-Pro-engineering-239,B,B,1.0
+MMLU-Pro-engineering-186,A,E,0.0
+MMLU-Pro-engineering-599,A,E,0.0
+MMLU-Pro-engineering-425,P,C,0.0
+MMLU-Pro-engineering-273,G,I,0.0
+MMLU-Pro-engineering-361,X,J,0.0
+MMLU-Pro-engineering-391,H,G,0.0
+MMLU-Pro-engineering-12,N,I,0.0
+MMLU-Pro-engineering-168,F,J,0.0
+MMLU-Pro-engineering-811,A,J,0.0
+MMLU-Pro-engineering-579,A,E,0.0
+MMLU-Pro-engineering-786,C,H,0.0
+MMLU-Pro-engineering-669,C,D,0.0
+MMLU-Pro-engineering-834,X,I,0.0
+MMLU-Pro-health-532,B,B,1.0
+MMLU-Pro-health-496,D,E,0.0
+MMLU-Pro-health-757,A,B,0.0
+MMLU-Pro-health-494,I,A,0.0
+MMLU-Pro-health-739,I,F,0.0
+MMLU-Pro-health-364,B,B,1.0
+MMLU-Pro-health-815,C,C,1.0
+MMLU-Pro-health-55,I,I,1.0
+MMLU-Pro-health-228,H,H,1.0
+MMLU-Pro-health-463,H,H,1.0
+MMLU-Pro-health-500,B,A,0.0
+MMLU-Pro-health-312,C,C,1.0
+MMLU-Pro-health-607,J,J,1.0
+MMLU-Pro-health-616,J,J,1.0
+MMLU-Pro-health-389,J,J,1.0
+MMLU-Pro-health-70,I,I,1.0
+MMLU-Pro-health-29,H,G,0.0
+MMLU-Pro-health-328,B,B,1.0
+MMLU-Pro-health-7,D,D,1.0
+MMLU-Pro-health-235,F,F,1.0
+MMLU-Pro-health-62,D,A,0.0
+MMLU-Pro-health-513,B,B,1.0
+MMLU-Pro-health-560,D,D,1.0
+MMLU-Pro-health-501,E,E,1.0
+MMLU-Pro-health-43,B,B,1.0
+MMLU-Pro-health-179,I,I,1.0
+MMLU-Pro-health-715,B,B,1.0
+MMLU-Pro-health-229,H,H,1.0
+MMLU-Pro-health-145,I,I,1.0
+MMLU-Pro-health-465,D,D,1.0
+MMLU-Pro-health-789,H,G,0.0
+MMLU-Pro-health-354,H,H,1.0
+MMLU-Pro-health-142,D,D,1.0
+MMLU-Pro-health-173,B,B,1.0
+MMLU-Pro-health-127,A,H,0.0
+MMLU-Pro-health-114,A,B,0.0
+MMLU-Pro-history-85,C,C,1.0
+MMLU-Pro-history-109,J,J,1.0
+MMLU-Pro-history-373,G,G,1.0
+MMLU-Pro-history-64,A,A,1.0
+MMLU-Pro-history-358,G,E,0.0
+MMLU-Pro-history-149,A,A,1.0
+MMLU-Pro-history-67,D,D,1.0
+MMLU-Pro-history-20,C,C,1.0
+MMLU-Pro-history-247,B,B,1.0
+MMLU-Pro-history-284,A,A,1.0
+MMLU-Pro-history-80,C,F,0.0
+MMLU-Pro-history-153,F,F,1.0
+MMLU-Pro-history-168,J,J,1.0
+MMLU-Pro-history-169,J,J,1.0
+MMLU-Pro-history-112,I,C,0.0
+MMLU-Pro-history-199,C,C,1.0
+MMLU-Pro-history-178,E,I,0.0
+MMLU-Pro-history-93,F,J,0.0
+MMLU-Pro-history-38,S,D,0.0
+MMLU-Pro-history-220,A,A,1.0
+MMLU-Pro-history-301,G,G,1.0
+MMLU-Pro-history-186,F,F,1.0
+MMLU-Pro-history-180,B,D,0.0
+MMLU-Pro-history-367,J,B,0.0
+MMLU-Pro-history-165,G,G,1.0
+MMLU-Pro-history-200,B,J,0.0
+MMLU-Pro-history-116,C,C,1.0
+MMLU-Pro-history-219,J,C,0.0
+MMLU-Pro-history-315,F,A,0.0
+MMLU-Pro-history-232,S,D,0.0
+MMLU-Pro-history-259,G,C,0.0
+MMLU-Pro-history-214,C,A,0.0
+MMLU-Pro-history-297,C,D,0.0
+MMLU-Pro-history-129,C,C,1.0
+MMLU-Pro-history-44,H,A,0.0
+MMLU-Pro-history-81,H,H,1.0
+MMLU-Pro-history-264,A,A,1.0
+MMLU-Pro-history-53,G,G,1.0
+MMLU-Pro-history-89,I,I,1.0
+MMLU-Pro-history-379,C,A,0.0
+MMLU-Pro-history-253,B,B,1.0
+MMLU-Pro-history-161,F,F,1.0
+MMLU-Pro-history-309,D,D,1.0
+MMLU-Pro-history-150,I,I,1.0
+MMLU-Pro-law-412,J,E,0.0
+MMLU-Pro-law-987,H,C,0.0
+MMLU-Pro-law-500,E,E,1.0
+MMLU-Pro-law-902,S,C,0.0
+MMLU-Pro-law-571,I,F,0.0
+MMLU-Pro-law-262,G,E,0.0
+MMLU-Pro-law-31,A,A,1.0
+MMLU-Pro-law-11,I,I,1.0
+MMLU-Pro-law-297,F,A,0.0
+MMLU-Pro-law-867,E,E,1.0
+MMLU-Pro-law-591,A,A,1.0
+MMLU-Pro-law-290,I,B,0.0
+MMLU-Pro-law-67,B,A,0.0
+MMLU-Pro-law-754,C,G,0.0
+MMLU-Pro-law-452,A,B,0.0
+MMLU-Pro-law-918,G,G,1.0
+MMLU-Pro-law-121,C,E,0.0
+MMLU-Pro-law-216,F,J,0.0
+MMLU-Pro-law-73,I,B,0.0
+MMLU-Pro-law-644,S,C,0.0
+MMLU-Pro-law-159,B,B,1.0
+MMLU-Pro-law-669,D,D,1.0
+MMLU-Pro-law-487,J,J,1.0
+MMLU-Pro-law-364,F,C,0.0
+MMLU-Pro-law-260,J,B,0.0
+MMLU-Pro-law-356,H,D,0.0
+MMLU-Pro-law-657,C,G,0.0
+MMLU-Pro-law-200,E,E,1.0
+MMLU-Pro-law-409,A,A,1.0
+MMLU-Pro-law-614,G,A,0.0
+MMLU-Pro-law-30,D,A,0.0
+MMLU-Pro-law-908,F,B,0.0
+MMLU-Pro-law-306,E,E,1.0
+MMLU-Pro-law-897,D,D,1.0
+MMLU-Pro-law-351,D,F,0.0
+MMLU-Pro-law-482,C,C,1.0
+MMLU-Pro-law-32,A,D,0.0
+MMLU-Pro-law-232,E,A,0.0
+MMLU-Pro-law-193,I,F,0.0
+MMLU-Pro-law-4,E,G,0.0
+MMLU-Pro-law-520,D,A,0.0
+MMLU-Pro-law-6,S,C,0.0
+MMLU-Pro-law-358,F,C,0.0
+MMLU-Pro-law-604,J,J,1.0
+MMLU-Pro-law-798,C,C,1.0
+MMLU-Pro-law-240,B,C,0.0
+MMLU-Pro-law-156,C,D,0.0
+MMLU-Pro-law-779,F,A,0.0
+MMLU-Pro-law-353,E,E,1.0
+MMLU-Pro-law-182,J,J,1.0
+MMLU-Pro-law-896,E,E,1.0
+MMLU-Pro-law-451,B,C,0.0
+MMLU-Pro-law-174,H,A,0.0
+MMLU-Pro-law-7,G,G,1.0
+MMLU-Pro-law-221,H,H,1.0
+MMLU-Pro-law-924,E,E,1.0
+MMLU-Pro-law-501,A,A,1.0
+MMLU-Pro-law-133,I,I,1.0
+MMLU-Pro-law-406,D,G,0.0
+MMLU-Pro-law-619,G,G,1.0
+MMLU-Pro-law-695,S,E,0.0
+MMLU-Pro-law-52,D,D,1.0
+MMLU-Pro-law-921,C,E,0.0
+MMLU-Pro-law-265,E,C,0.0
+MMLU-Pro-law-368,E,E,1.0
+MMLU-Pro-law-62,I,H,0.0
+MMLU-Pro-law-639,C,C,1.0
+MMLU-Pro-law-369,F,A,0.0
+MMLU-Pro-law-224,D,F,0.0
+MMLU-Pro-law-971,G,H,0.0
+MMLU-Pro-law-394,A,A,1.0
+MMLU-Pro-law-886,H,H,1.0
+MMLU-Pro-law-75,H,H,1.0
+MMLU-Pro-law-115,I,B,0.0
+MMLU-Pro-law-168,J,G,0.0
+MMLU-Pro-law-871,F,A,0.0
+MMLU-Pro-math-738,A,A,1.0
+MMLU-Pro-math-679,H,D,0.0
+MMLU-Pro-math-627,P,E,0.0
+MMLU-Pro-math-812,A,C,0.0
+MMLU-Pro-math-372,B,B,1.0
+MMLU-Pro-math-987,E,E,1.0
+MMLU-Pro-math-585,A,G,0.0
+MMLU-Pro-math-313,S,J,0.0
+MMLU-Pro-math-925,F,E,0.0
+MMLU-Pro-math-262,I,I,1.0
+MMLU-Pro-math-31,F,F,1.0
+MMLU-Pro-math-11,A,D,0.0
+MMLU-Pro-math-297,A,A,1.0
+MMLU-Pro-math-55,J,C,0.0
+MMLU-Pro-math-693,Z,E,0.0
+MMLU-Pro-math-108,F,F,1.0
+MMLU-Pro-math-494,C,C,1.0
+MMLU-Pro-math-40,F,F,1.0
+MMLU-Pro-math-276,F,F,1.0
+MMLU-Pro-math-523,A,A,1.0
+MMLU-Pro-math-717,X,B,0.0
+MMLU-Pro-math-555,H,H,1.0
+MMLU-Pro-math-960,F,F,1.0
+MMLU-Pro-math-295,B,B,1.0
+MMLU-Pro-math-560,C,C,1.0
+MMLU-Pro-math-584,X,B,0.0
+MMLU-Pro-math-996,A,D,0.0
+MMLU-Pro-math-915,,C,0.0
+MMLU-Pro-math-322,J,J,1.0
+MMLU-Pro-math-768,S,E,0.0
+MMLU-Pro-math-650,B,B,1.0
+MMLU-Pro-math-866,N,B,0.0
+MMLU-Pro-math-311,B,B,1.0
+MMLU-Pro-math-364,G,H,0.0
+MMLU-Pro-math-255,F,J,0.0
+MMLU-Pro-math-803,H,H,1.0
+MMLU-Pro-math-943,G,G,1.0
+MMLU-Pro-math-949,G,G,1.0
+MMLU-Pro-math-657,T,D,0.0
+MMLU-Pro-math-200,F,F,1.0
+MMLU-Pro-math-214,E,E,1.0
+MMLU-Pro-math-409,F,F,1.0
+MMLU-Pro-math-614,D,D,1.0
+MMLU-Pro-math-79,F,F,1.0
+MMLU-Pro-math-30,D,D,1.0
+MMLU-Pro-math-696,D,D,1.0
+MMLU-Pro-math-837,A,D,0.0
+MMLU-Pro-math-66,A,B,0.0
+MMLU-Pro-math-656,C,H,0.0
+MMLU-Pro-math-250,A,C,0.0
+MMLU-Pro-math-545,I,I,1.0
+MMLU-Pro-math-232,G,G,1.0
+MMLU-Pro-math-992,T,D,0.0
+MMLU-Pro-math-382,A,B,0.0
+MMLU-Pro-math-524,G,G,1.0
+MMLU-Pro-math-212,A,H,0.0
+MMLU-Pro-math-936,B,B,1.0
+MMLU-Pro-math-8,G,G,1.0
+MMLU-Pro-math-542,A,C,0.0
+MMLU-Pro-math-483,H,H,1.0
+MMLU-Pro-math-779,G,G,1.0
+MMLU-Pro-math-935,N,D,0.0
+MMLU-Pro-math-568,A,C,0.0
+MMLU-Pro-math-708,S,D,0.0
+MMLU-Pro-math-729,D,J,0.0
+MMLU-Pro-math-149,J,A,0.0
+MMLU-Pro-math-507,C,B,0.0
+MMLU-Pro-math-478,I,I,1.0
+MMLU-Pro-math-421,C,D,0.0
+MMLU-Pro-math-553,S,B,0.0
+MMLU-Pro-math-275,E,E,1.0
+MMLU-Pro-math-132,S,F,0.0
+MMLU-Pro-math-327,I,I,1.0
+MMLU-Pro-math-136,D,D,1.0
+MMLU-Pro-math-165,J,J,1.0
+MMLU-Pro-math-194,I,I,1.0
+MMLU-Pro-math-697,F,F,1.0
+MMLU-Pro-math-443,A,I,0.0
+MMLU-Pro-math-998,D,D,1.0
+MMLU-Pro-math-468,S,C,0.0
+MMLU-Pro-math-927,F,H,0.0
+MMLU-Pro-math-508,C,H,0.0
+MMLU-Pro-math-484,G,G,1.0
+MMLU-Pro-math-62,F,B,0.0
+MMLU-Pro-math-273,H,H,1.0
+MMLU-Pro-math-355,G,G,1.0
+MMLU-Pro-math-183,F,G,0.0
+MMLU-Pro-math-546,A,C,0.0
+MMLU-Pro-math-635,J,J,1.0
+MMLU-Pro-math-599,D,D,1.0
+MMLU-Pro-math-962,I,I,1.0
+MMLU-Pro-math-105,B,B,1.0
+MMLU-Pro-math-931,D,D,1.0
+MMLU-Pro-math-934,F,F,1.0
+MMLU-Pro-math-606,J,J,1.0
+MMLU-Pro-math-594,I,I,1.0
+MMLU-Pro-math-12,A,B,0.0
+MMLU-Pro-math-330,C,C,1.0
+MMLU-Pro-other-68,C,C,1.0
+MMLU-Pro-other-312,C,B,0.0
+MMLU-Pro-other-426,F,J,0.0
+MMLU-Pro-other-666,F,F,1.0
+MMLU-Pro-other-592,B,B,1.0
+MMLU-Pro-other-97,F,B,0.0
+MMLU-Pro-other-372,E,H,0.0
+MMLU-Pro-other-399,A,C,0.0
+MMLU-Pro-other-219,C,C,1.0
+MMLU-Pro-other-594,B,C,0.0
+MMLU-Pro-other-517,B,B,1.0
+MMLU-Pro-other-335,E,E,1.0
+MMLU-Pro-other-922,B,B,1.0
+MMLU-Pro-other-437,A,G,0.0
+MMLU-Pro-other-828,I,I,1.0
+MMLU-Pro-other-119,A,C,0.0
+MMLU-Pro-other-307,B,C,0.0
+MMLU-Pro-other-389,I,I,1.0
+MMLU-Pro-other-637,E,E,1.0
+MMLU-Pro-other-205,A,B,0.0
+MMLU-Pro-other-904,A,G,0.0
+MMLU-Pro-other-532,H,H,1.0
+MMLU-Pro-other-860,G,F,0.0
+MMLU-Pro-other-515,B,B,1.0
+MMLU-Pro-other-297,D,D,1.0
+MMLU-Pro-other-560,H,I,0.0
+MMLU-Pro-other-550,E,E,1.0
+MMLU-Pro-other-334,C,C,1.0
+MMLU-Pro-other-570,J,B,0.0
+MMLU-Pro-other-519,B,B,1.0
+MMLU-Pro-other-598,B,A,0.0
+MMLU-Pro-other-468,B,H,0.0
+MMLU-Pro-other-590,D,B,0.0
+MMLU-Pro-other-19,G,D,0.0
+MMLU-Pro-other-362,C,C,1.0
+MMLU-Pro-other-528,D,D,1.0
+MMLU-Pro-other-645,G,I,0.0
+MMLU-Pro-other-898,H,H,1.0
+MMLU-Pro-other-164,B,A,0.0
+MMLU-Pro-other-582,A,C,0.0
+MMLU-Pro-other-105,I,I,1.0
+MMLU-Pro-other-43,J,H,0.0
+MMLU-Pro-other-330,B,B,1.0
+MMLU-Pro-other-597,B,A,0.0
+MMLU-Pro-other-394,J,J,1.0
+MMLU-Pro-other-448,D,D,1.0
+MMLU-Pro-other-908,B,A,0.0
+MMLU-Pro-other-534,B,G,0.0
+MMLU-Pro-other-204,C,C,1.0
+MMLU-Pro-other-238,H,F,0.0
+MMLU-Pro-other-760,F,F,1.0
+MMLU-Pro-other-185,D,D,1.0
+MMLU-Pro-other-571,B,B,1.0
+MMLU-Pro-other-396,B,B,1.0
+MMLU-Pro-philosophy-323,C,A,0.0
+MMLU-Pro-philosophy-105,I,I,1.0
+MMLU-Pro-philosophy-138,H,H,1.0
+MMLU-Pro-philosophy-490,B,B,1.0
+MMLU-Pro-philosophy-483,A,B,0.0
+MMLU-Pro-philosophy-78,I,B,0.0
+MMLU-Pro-philosophy-183,D,J,0.0
+MMLU-Pro-philosophy-288,A,A,1.0
+MMLU-Pro-philosophy-409,E,C,0.0
+MMLU-Pro-philosophy-40,D,E,0.0
+MMLU-Pro-philosophy-352,C,B,0.0
+MMLU-Pro-philosophy-491,C,C,1.0
+MMLU-Pro-philosophy-125,D,I,0.0
+MMLU-Pro-philosophy-276,J,A,0.0
+MMLU-Pro-philosophy-32,C,C,1.0
+MMLU-Pro-philosophy-406,G,G,1.0
+MMLU-Pro-philosophy-149,E,F,0.0
+MMLU-Pro-philosophy-24,D,D,1.0
+MMLU-Pro-philosophy-111,C,C,1.0
+MMLU-Pro-philosophy-295,C,C,1.0
+MMLU-Pro-philosophy-8,G,J,0.0
+MMLU-Pro-philosophy-466,H,A,0.0
+MMLU-Pro-philosophy-212,B,G,0.0
+MMLU-Pro-philosophy-142,I,I,1.0
+MMLU-Pro-philosophy-365,A,C,0.0
+MMLU-Pro-philosophy-471,B,B,1.0
+MMLU-Pro-philosophy-75,F,F,1.0
+MMLU-Pro-philosophy-197,C,C,1.0
+MMLU-Pro-philosophy-285,G,G,1.0
+MMLU-Pro-philosophy-7,B,D,0.0
+MMLU-Pro-philosophy-368,C,B,0.0
+MMLU-Pro-philosophy-144,F,F,1.0
+MMLU-Pro-philosophy-240,F,H,0.0
+MMLU-Pro-philosophy-123,J,J,1.0
+MMLU-Pro-philosophy-300,D,G,0.0
+MMLU-Pro-philosophy-302,I,J,0.0
+MMLU-Pro-philosophy-130,B,J,0.0
+MMLU-Pro-philosophy-45,G,G,1.0
+MMLU-Pro-philosophy-160,H,F,0.0
+MMLU-Pro-philosophy-52,G,G,1.0
+MMLU-Pro-philosophy-372,I,B,0.0
+MMLU-Pro-philosophy-42,C,H,0.0
+MMLU-Pro-philosophy-412,D,A,0.0
+MMLU-Pro-philosophy-227,B,B,1.0
+MMLU-Pro-philosophy-268,F,F,1.0
+MMLU-Pro-philosophy-63,E,E,1.0
+MMLU-Pro-philosophy-463,B,B,1.0
+MMLU-Pro-philosophy-301,F,E,0.0
+MMLU-Pro-philosophy-191,C,C,1.0
+MMLU-Pro-philosophy-2,A,D,0.0
+MMLU-Pro-philosophy-81,E,H,0.0
+MMLU-Pro-philosophy-492,J,J,1.0
+MMLU-Pro-philosophy-244,S,D,0.0
+MMLU-Pro-philosophy-190,A,A,1.0
+MMLU-Pro-philosophy-22,G,G,1.0
+MMLU-Pro-philosophy-192,H,H,1.0
+MMLU-Pro-philosophy-72,I,G,0.0
+MMLU-Pro-physics-522,S,C,0.0
+MMLU-Pro-physics-741,S,I,0.0
+MMLU-Pro-physics-514,D,D,1.0
+MMLU-Pro-physics-812,C,C,1.0
+MMLU-Pro-physics-762,A,C,0.0
+MMLU-Pro-physics-528,J,J,1.0
+MMLU-Pro-physics-211,G,H,0.0
+MMLU-Pro-physics-500,B,B,1.0
+MMLU-Pro-physics-199,A,C,0.0
+MMLU-Pro-physics-329,C,C,1.0
+MMLU-Pro-physics-925,I,I,1.0
+MMLU-Pro-physics-262,A,C,0.0
+MMLU-Pro-physics-222,E,E,1.0
+MMLU-Pro-physics-290,C,C,1.0
+MMLU-Pro-physics-999,B,B,1.0
+MMLU-Pro-physics-715,F,F,1.0
+MMLU-Pro-physics-87,C,C,1.0
+MMLU-Pro-physics-45,A,F,0.0
+MMLU-Pro-physics-282,A,H,0.0
+MMLU-Pro-physics-823,J,F,0.0
+MMLU-Pro-physics-885,D,F,0.0
+MMLU-Pro-physics-768,A,A,1.0
+MMLU-Pro-physics-690,H,H,1.0
+MMLU-Pro-physics-311,A,J,0.0
+MMLU-Pro-physics-480,D,D,1.0
+MMLU-Pro-physics-487,B,B,1.0
+MMLU-Pro-physics-378,J,G,0.0
+MMLU-Pro-physics-200,A,G,0.0
+MMLU-Pro-physics-614,J,J,1.0
+MMLU-Pro-physics-79,J,E,0.0
+MMLU-Pro-physics-897,J,J,1.0
+MMLU-Pro-physics-482,J,G,0.0
+MMLU-Pro-physics-32,D,A,0.0
+MMLU-Pro-physics-205,J,D,0.0
+MMLU-Pro-physics-800,N,E,0.0
+MMLU-Pro-physics-895,E,E,1.0
+MMLU-Pro-physics-324,C,C,1.0
+MMLU-Pro-physics-923,I,I,1.0
+MMLU-Pro-physics-542,F,E,0.0
+MMLU-Pro-physics-423,C,A,0.0
+MMLU-Pro-physics-149,M,B,0.0
+MMLU-Pro-physics-723,I,I,1.0
+MMLU-Pro-physics-405,X,J,0.0
+MMLU-Pro-physics-904,S,C,0.0
+MMLU-Pro-physics-70,F,F,1.0
+MMLU-Pro-physics-327,I,I,1.0
+MMLU-Pro-physics-165,Q,F,0.0
+MMLU-Pro-physics-74,I,I,1.0
+MMLU-Pro-physics-235,A,C,0.0
+MMLU-Pro-physics-758,S,C,0.0
+MMLU-Pro-physics-25,A,A,1.0
+MMLU-Pro-physics-927,S,I,0.0
+MMLU-Pro-physics-19,S,I,0.0
+MMLU-Pro-physics-484,B,D,0.0
+MMLU-Pro-physics-361,D,D,1.0
+MMLU-Pro-physics-457,F,F,1.0
+MMLU-Pro-physics-971,X,H,0.0
+MMLU-Pro-physics-674,A,B,0.0
+MMLU-Pro-physics-394,F,C,0.0
+MMLU-Pro-physics-164,F,F,1.0
+MMLU-Pro-physics-413,A,A,1.0
+MMLU-Pro-physics-75,F,F,1.0
+MMLU-Pro-physics-418,F,H,0.0
+MMLU-Pro-physics-989,F,C,0.0
+MMLU-Pro-physics-12,E,E,1.0
+MMLU-Pro-physics-44,D,D,1.0
+MMLU-Pro-physics-445,F,F,1.0
+MMLU-Pro-psychology-534,A,A,1.0
+MMLU-Pro-psychology-491,J,J,1.0
+MMLU-Pro-psychology-245,C,C,1.0
+MMLU-Pro-psychology-611,D,D,1.0
+MMLU-Pro-psychology-623,H,B,0.0
+MMLU-Pro-psychology-216,D,D,1.0
+MMLU-Pro-psychology-193,B,I,0.0
+MMLU-Pro-psychology-78,E,E,1.0
+MMLU-Pro-psychology-55,J,J,1.0
+MMLU-Pro-psychology-749,B,B,1.0
+MMLU-Pro-psychology-315,A,J,0.0
+MMLU-Pro-psychology-8,J,J,1.0
+MMLU-Pro-psychology-102,J,J,1.0
+MMLU-Pro-psychology-538,B,C,0.0
+MMLU-Pro-psychology-520,E,E,1.0
+MMLU-Pro-psychology-149,A,D,0.0
+MMLU-Pro-psychology-735,D,D,1.0
+MMLU-Pro-psychology-61,B,B,1.0
+MMLU-Pro-psychology-182,E,E,1.0
+MMLU-Pro-psychology-132,F,F,1.0
+MMLU-Pro-psychology-449,I,E,0.0
+MMLU-Pro-psychology-663,D,H,0.0
+MMLU-Pro-psychology-146,G,C,0.0
+MMLU-Pro-psychology-480,C,I,0.0
+MMLU-Pro-psychology-630,H,G,0.0
+MMLU-Pro-psychology-286,F,H,0.0
+MMLU-Pro-psychology-494,E,F,0.0
+MMLU-Pro-psychology-713,C,C,1.0
+MMLU-Pro-psychology-178,F,I,0.0
+MMLU-Pro-psychology-446,D,B,0.0
+MMLU-Pro-psychology-639,B,B,1.0
+MMLU-Pro-psychology-222,F,F,1.0
+MMLU-Pro-psychology-698,H,E,0.0
+MMLU-Pro-psychology-515,I,E,0.0
+MMLU-Pro-psychology-290,F,F,1.0
+MMLU-Pro-psychology-279,G,G,1.0
+MMLU-Pro-psychology-117,G,G,1.0
+MMLU-Pro-psychology-319,H,H,1.0
+MMLU-Pro-psychology-750,B,G,0.0
+MMLU-Pro-psychology-734,F,B,0.0
+MMLU-Pro-psychology-370,D,D,1.0
+MMLU-Pro-psychology-372,D,D,1.0
+MMLU-Pro-psychology-262,G,G,1.0
+MMLU-Pro-psychology-430,D,D,1.0
+MMLU-Pro-psychology-51,I,I,1.0
+MMLU-Pro-psychology-738,C,H,0.0
+MMLU-Pro-psychology-321,F,F,1.0
+MMLU-Pro-psychology-13,B,B,1.0
+MMLU-Pro-psychology-409,F,F,1.0
+MMLU-Pro-psychology-355,F,F,1.0
+MMLU-Pro-psychology-246,A,A,1.0
+MMLU-Pro-psychology-18,C,C,1.0
+MMLU-Pro-psychology-256,F,A,0.0
+Math-math_comp-67,S,,0.0
+Math-math_comp-13,S,D,0.0
+Math-math_comp-61,Y,,0.0
+Math-math_comp-102,B,B,1.0
+Math-math_comp-5,S,E,0.0
+Math-math_comp-124,S,E,0.0
+Math-math_comp-139,A,A,1.0
+Math-math_comp-105,C,C,1.0
+Math-math_comp-57,S,,0.0
+Math-math_comp-23,B,C,0.0
+Math-math_comp-114,S,E,0.0
+Math-math_comp-63,A,,0.0
+Math-math_comp-77,K,,0.0
+Math-math_comp-130,C,C,1.0
+Math-math_comp-36,S,C,0.0
+Math-math_comp-144,N,E,0.0
+Math-math_comp-80,E,E,1.0
+Math-math_comp-59,,,0.0
+Math-math_comp-91,A,D,0.0
+Math-math_comp-108,C,C,1.0
+Math-math_comp-22,N,A,0.0
+Math-math_comp-131,A,C,0.0
+Math-math_comp-88,S,C,0.0
+Math-math_comp-75,S,,0.0
+Math-math_comp-93,Z,E,0.0
+Math-math_comp-103,A,C,0.0
+SAT-SAT-En-149,B,B,1.0
+SAT-SAT-En-17,A,A,1.0
+SAT-SAT-En-113,A,A,1.0
+SAT-SAT-En-46,D,D,1.0
+SAT-SAT-En-67,A,A,1.0
+SAT-SAT-En-141,B,B,1.0
+SAT-SAT-En-115,B,B,1.0
+SAT-SAT-En-30,D,D,1.0
+SAT-SAT-En-126,A,A,1.0
+SAT-SAT-En-87,B,B,1.0
+SAT-SAT-En-105,A,A,1.0
+SAT-SAT-En-128,D,D,1.0
+SAT-SAT-En-142,A,A,1.0
+SAT-SAT-En-168,C,C,1.0
+SAT-SAT-En-62,B,B,1.0
+SAT-SAT-En-7,D,C,0.0
+SAT-SAT-En-28,B,B,1.0
+SAT-SAT-En-118,A,A,1.0
+SAT-SAT-En-121,A,A,1.0
+SAT-SAT-En-1,B,B,1.0
+SAT-SAT-En-174,C,C,1.0
+SAT-SAT-En-84,B,A,0.0
+SAT-SAT-En-89,A,C,0.0
+SAT-SAT-En-158,A,A,1.0
+SAT-SAT-En-2,B,B,1.0
+SAT-SAT-En-104,D,D,1.0
+SAT-SAT-En-100,B,B,1.0
+SAT-SAT-En-88,D,B,0.0
+SAT-SAT-En-75,D,D,1.0
+SAT-SAT-En-21,A,A,1.0
+SAT-SAT-En-72,D,D,1.0
+SAT-SAT-En-15,B,B,1.0
+SAT-SAT-Math-101,B,B,1.0
+SAT-SAT-Math-31,B,B,1.0
+SAT-SAT-Math-128,D,D,1.0
+SAT-SAT-Math-17,C,C,1.0
+SAT-SAT-Math-155,A,A,1.0
+SAT-SAT-Math-114,C,C,1.0
+SAT-SAT-Math-20,A,A,1.0
+SAT-SAT-Math-57,C,C,1.0
+SAT-SAT-Math-164,B,B,1.0
+SAT-SAT-Math-156,D,D,1.0
+SAT-SAT-Math-32,A,C,0.0
+SAT-SAT-Math-85,B,B,1.0
+SAT-SAT-Math-207,B,B,1.0
+SAT-SAT-Math-1,D,D,1.0
+SAT-SAT-Math-154,C,C,1.0
+SAT-SAT-Math-126,S,A,0.0
+SAT-SAT-Math-184,A,A,1.0
+SAT-SAT-Math-137,B,B,1.0
+SAT-SAT-Math-120,D,D,1.0
+SAT-SAT-Math-127,C,C,1.0
+SAT-SAT-Math-159,B,B,1.0
+SAT-SAT-Math-11,D,D,1.0
+SAT-SAT-Math-63,A,A,1.0
+SAT-SAT-Math-165,C,C,1.0
+SAT-SAT-Math-195,C,C,1.0
+SAT-SAT-Math-124,D,D,1.0
+SAT-SAT-Math-4,B,B,1.0
+SAT-SAT-Math-8,C,C,1.0
+SAT-SAT-Math-111,C,C,1.0
+SAT-SAT-Math-92,C,C,1.0
+SAT-SAT-Math-201,B,B,1.0
+SAT-SAT-Math-161,A,A,1.0
+SAT-SAT-Math-158,B,B,1.0
+SAT-SAT-Math-53,C,C,1.0
+SAT-SAT-Math-150,A,A,1.0
+SAT-SAT-Math-100,A,A,1.0
+SAT-SAT-Math-88,D,D,1.0
+SAT-SAT-Math-122,D,A,0.0
+SAT-SAT-Math-21,B,B,1.0
+SAT-SAT-Math-72,A,A,1.0
+SAT-SAT-Math-15,D,D,1.0
+TimeDial-TimeDial-362,S,B,0.0
+TimeDial-TimeDial-74,S,B,0.0
+TimeDial-TimeDial-375,S,C,0.0
+TimeDial-TimeDial-156,C,B,0.0
+TimeDial-TimeDial-409,A,A,1.0
+TimeDial-TimeDial-77,A,A,1.0
+TimeDial-TimeDial-94,A,A,1.0
+TimeDial-TimeDial-186,S,B,0.0
+TimeDial-TimeDial-73,S,B,0.0
+TimeDial-TimeDial-132,B,B,1.0
+TimeDial-TimeDial-194,A,A,1.0
+TimeDial-TimeDial-149,B,A,0.0
+TimeDial-TimeDial-263,C,B,0.0
+TimeDial-TimeDial-484,S,A,0.0
+TimeDial-TimeDial-452,D,A,0.0
+TimeDial-TimeDial-392,C,C,1.0
+TimeDial-TimeDial-466,C,A,0.0
+TimeDial-TimeDial-83,C,C,1.0
+TimeDial-TimeDial-87,S,B,0.0
+TimeDial-TimeDial-16,B,B,1.0
+TimeDial-TimeDial-57,B,B,1.0
+TimeDial-TimeDial-302,S,A,0.0
+TimeDial-TimeDial-230,S,A,0.0
+TimeDial-TimeDial-138,A,A,1.0
+TimeDial-TimeDial-177,S,A,0.0
+TimeDial-TimeDial-204,B,A,0.0
+TimeDial-TimeDial-32,C,A,0.0
+TimeDial-TimeDial-67,B,B,1.0
+TimeDial-TimeDial-209,S,A,0.0
+TimeDial-TimeDial-24,A,A,1.0
+TimeDial-TimeDial-223,B,C,0.0
+TimeDial-TimeDial-427,A,A,1.0
+TimeDial-TimeDial-6,S,A,0.0
+TimeDial-TimeDial-117,B,B,1.0
+TimeDial-TimeDial-17,C,B,0.0
+TimeDial-TimeDial-219,C,A,0.0
+TimeDial-TimeDial-438,S,A,0.0
+TimeDial-TimeDial-8,B,B,1.0
+TimeDial-TimeDial-68,S,A,0.0
+TimeDial-TimeDial-376,C,C,1.0
+TimeDial-TimeDial-249,D,B,0.0
+TimeDial-TimeDial-146,S,C,0.0
+TimeDial-TimeDial-84,A,A,1.0
+TimeDial-TimeDial-166,A,A,1.0
+TimeDial-TimeDial-479,D,B,0.0
+TimeDial-TimeDial-235,D,A,0.0
+TimeDial-TimeDial-365,A,B,0.0
+TimeDial-TimeDial-440,S,C,0.0
+TimeDial-TimeDial-60,S,A,0.0
+TimeDial-TimeDial-90,A,A,1.0
+TimeDial-TimeDial-347,B,B,1.0
+TimeDial-TimeDial-104,A,A,1.0
+TimeDial-TimeDial-315,A,A,1.0
+TimeDial-TimeDial-147,A,A,1.0
+TimeDial-TimeDial-288,D,C,0.0
+TimeDial-TimeDial-97,C,B,0.0
+TimeDial-TimeDial-240,S,B,0.0
+TimeDial-TimeDial-443,C,B,0.0
+TimeDial-TimeDial-203,A,A,1.0
+TimeDial-TimeDial-247,B,B,1.0
+TimeDial-TimeDial-285,B,B,1.0
+TimeDial-TimeDial-290,C,B,0.0
+TimeDial-TimeDial-341,B,B,1.0
+TimeDial-TimeDial-113,A,A,1.0
+TimeDial-TimeDial-482,S,C,0.0
+TimeDial-TimeDial-121,A,A,1.0
+TimeDial-TimeDial-350,D,B,0.0
+TimeDial-TimeDial-461,A,A,1.0
+TimeDial-TimeDial-187,D,C,0.0
+TimeDial-TimeDial-171,B,A,0.0
+TimeDial-TimeDial-379,S,A,0.0
+TimeDial-TimeDial-207,A,A,1.0
+TimeDial-TimeDial-283,A,A,1.0
+TimeDial-TimeDial-101,C,B,0.0
+TimeDial-TimeDial-227,D,C,0.0
+TimeDial-TimeDial-172,A,A,1.0
+TimeDial-TimeDial-48,A,B,0.0
+TimeDial-TimeDial-33,B,B,1.0
+TimeDial-TimeDial-469,D,B,0.0
+TimeDial-TimeDial-217,A,A,1.0
+TimeDial-TimeDial-431,B,B,1.0
+TimeDial-TimeDial-487,S,B,0.0
+TimeDial-TimeDial-270,D,C,0.0
+TimeDial-TimeDial-44,D,B,0.0
+TimeDial-TimeDial-218,S,A,0.0
+TimeDial-TimeDial-402,B,B,1.0
+TimeDial-TimeDial-420,S,A,0.0
+TimeDial-TimeDial-81,C,C,1.0
+TimeDial-TimeDial-206,C,C,1.0
+TimeDial-TimeDial-35,D,C,0.0
+TimeDial-TimeDial-474,S,A,0.0
+TimeDial-TimeDial-89,A,A,1.0
+TimeDial-TimeDial-329,S,A,0.0
+TimeDial-TimeDial-320,B,B,1.0
+TimeDial-TimeDial-51,S,B,0.0
+TimeDial-TimeDial-49,S,A,0.0
+TimeDial-TimeDial-22,S,A,0.0
+TimeDial-TimeDial-72,B,A,0.0
+TruthQuest-E-514,A,A,1.0
+TruthQuest-E-320,A,A,1.0
+TruthQuest-E-550,A,A,1.0
+TruthQuest-E-948,A,A,1.0
+TruthQuest-E-622,B,A,0.0
+TruthQuest-E-688,A,A,1.0
+TruthQuest-E-880,S,A,0.0
+TruthQuest-E-590,S,A,0.0
+TruthQuest-E-765,A,A,1.0
+TruthQuest-E-185,S,A,0.0
+TruthQuest-E-295,E,A,0.0
+TruthQuest-E-121,A,A,1.0
+TruthQuest-E-248,A,A,1.0
+TruthQuest-E-669,S,A,0.0
+TruthQuest-E-803,S,A,0.0
+TruthQuest-E-30,S,A,0.0
+TruthQuest-E-3,B,A,0.0
+TruthQuest-E-4,S,A,0.0
+TruthQuest-E-800,C,A,0.0
+TruthQuest-E-992,S,A,0.0
+TruthQuest-E-895,A,A,1.0
+TruthQuest-E-604,S,A,0.0
+TruthQuest-E-156,A,A,1.0
+TruthQuest-E-441,C,A,0.0
+TruthQuest-E-483,B,A,0.0
+TruthQuest-E-950,S,A,0.0
+TruthQuest-E-630,A,A,1.0
+TruthQuest-E-873,A,A,1.0
+TruthQuest-E-940,S,A,0.0
+TruthQuest-E-145,A,A,1.0
+TruthQuest-E-451,C,A,0.0
+TruthQuest-E-174,A,A,1.0
+TruthQuest-E-7,S,A,0.0
+TruthQuest-E-479,A,A,1.0
+TruthQuest-E-911,S,A,0.0
+TruthQuest-E-793,B,A,0.0
+TruthQuest-E-133,S,A,0.0
+TruthQuest-E-991,A,A,1.0
+TruthQuest-E-711,A,A,1.0
+TruthQuest-E-833,S,A,0.0
+TruthQuest-E-62,S,A,0.0
+TruthQuest-E-410,A,A,1.0
+TruthQuest-E-931,A,A,1.0
+TruthQuest-E-922,A,A,1.0
+TruthQuest-E-612,A,A,1.0
+TruthQuest-E-871,S,A,0.0
+TruthQuest-E-883,E,A,0.0
+TruthQuest-I-412,A,A,1.0
+TruthQuest-I-679,A,A,1.0
+TruthQuest-I-514,S,A,0.0
+TruthQuest-I-137,A,A,1.0
+TruthQuest-I-637,S,A,0.0
+TruthQuest-I-688,B,A,0.0
+TruthQuest-I-585,B,A,0.0
+TruthQuest-I-60,S,A,0.0
+TruthQuest-I-543,B,A,0.0
+TruthQuest-I-663,,A,0.0
+TruthQuest-I-276,S,A,0.0
+TruthQuest-I-555,,A,0.0
+TruthQuest-I-960,S,A,0.0
+TruthQuest-I-824,C,A,0.0
+TruthQuest-I-426,S,A,0.0
+TruthQuest-I-801,A,A,1.0
+TruthQuest-I-823,S,A,0.0
+TruthQuest-I-61,A,A,1.0
+TruthQuest-I-866,S,A,0.0
+TruthQuest-I-669,A,A,1.0
+TruthQuest-I-364,S,A,0.0
+TruthQuest-I-943,B,A,0.0
+TruthQuest-I-830,A,A,1.0
+TruthQuest-I-214,A,A,1.0
+TruthQuest-I-536,S,A,0.0
+TruthQuest-I-496,S,A,0.0
+TruthQuest-I-665,S,A,0.0
+TruthQuest-I-32,S,A,0.0
+TruthQuest-I-232,S,A,0.0
+TruthQuest-I-992,S,A,0.0
+TruthQuest-I-491,,A,0.0
+TruthQuest-I-798,S,A,0.0
+TruthQuest-I-291,S,A,0.0
+TruthQuest-I-465,S,A,0.0
+TruthQuest-I-429,S,A,0.0
+TruthQuest-I-542,A,A,1.0
+TruthQuest-I-950,A,A,1.0
+TruthQuest-I-568,S,A,0.0
+TruthQuest-I-704,A,A,1.0
+TruthQuest-I-904,A,A,1.0
+TruthQuest-I-70,A,A,1.0
+TruthQuest-I-327,A,A,1.0
+TruthQuest-I-774,S,A,0.0
+TruthQuest-I-194,A,A,1.0
+TruthQuest-I-853,S,A,0.0
+TruthQuest-I-479,B,A,0.0
+TruthQuest-I-991,S,A,0.0
+TruthQuest-I-775,C,A,0.0
+TruthQuest-I-13,S,A,0.0
+TruthQuest-I-546,S,A,0.0
+TruthQuest-S-661,S,A,0.0
+TruthQuest-S-514,A,A,1.0
+TruthQuest-S-77,S,A,0.0
+TruthQuest-S-948,B,A,0.0
+TruthQuest-S-60,S,A,0.0
+TruthQuest-S-278,S,A,0.0
+TruthQuest-S-821,A,A,1.0
+TruthQuest-S-591,S,A,0.0
+TruthQuest-S-452,S,A,0.0
+TruthQuest-S-960,S,A,0.0
+TruthQuest-S-426,S,A,0.0
+TruthQuest-S-868,S,A,0.0
+TruthQuest-S-801,S,A,0.0
+TruthQuest-S-266,S,A,0.0
+TruthQuest-S-530,A,A,1.0
+TruthQuest-S-811,A,A,1.0
+TruthQuest-S-322,S,A,0.0
+TruthQuest-S-310,S,A,0.0
+TruthQuest-S-651,A,A,1.0
+TruthQuest-S-990,C,A,0.0
+TruthQuest-S-366,A,A,1.0
+TruthQuest-S-614,A,A,1.0
+TruthQuest-S-79,A,A,1.0
+TruthQuest-S-919,S,A,0.0
+TruthQuest-S-142,A,A,1.0
+TruthQuest-S-828,A,A,1.0
+TruthQuest-S-332,S,A,0.0
+TruthQuest-S-735,S,A,0.0
+TruthQuest-S-545,S,A,0.0
+TruthQuest-S-351,S,A,0.0
+TruthQuest-S-537,A,A,1.0
+TruthQuest-S-307,S,A,0.0
+TruthQuest-S-895,B,A,0.0
+TruthQuest-S-6,B,A,0.0
+TruthQuest-S-491,S,A,0.0
+TruthQuest-S-82,C,A,0.0
+TruthQuest-S-291,S,A,0.0
+TruthQuest-S-450,S,A,0.0
+TruthQuest-S-469,A,A,1.0
+TruthQuest-S-335,S,A,0.0
+TruthQuest-S-935,S,A,0.0
+TruthQuest-S-582,A,A,1.0
+TruthQuest-S-229,A,A,1.0
+TruthQuest-S-629,C,A,0.0
+TruthQuest-S-405,A,A,1.0
+TruthQuest-S-553,A,A,1.0
+TruthQuest-S-70,S,A,0.0
+TruthQuest-S-581,,A,0.0
+TruthQuest-S-186,S,A,0.0
+TruthQuest-S-406,S,A,0.0
+TruthQuest-S-468,A,A,1.0
+TruthQuest-S-540,A,A,1.0
+TruthQuest-S-782,S,A,0.0
+TruthQuest-S-833,S,A,0.0
+TruthQuest-S-716,S,A,0.0
+TruthQuest-S-355,S,A,0.0
+TruthQuest-S-183,A,A,1.0
+TruthQuest-S-654,B,A,0.0
+TruthQuest-S-164,A,A,1.0
+TruthQuest-S-670,S,A,0.0
+TruthQuest-S-114,S,A,0.0
+TruthQuest-S-391,A,A,1.0
+TruthQuest-S-337,A,A,1.0
+TruthQuest-S-534,S,A,0.0
+TruthQuest-S-871,A,A,1.0
