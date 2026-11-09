@@ -1,0 +1,751 @@
+custom_id,grade,correct
+ChemLLMBench-molecule_captioning-440,I,0.0
+ChemLLMBench-molecule_captioning-680,I,0.0
+ChemLLMBench-molecule_captioning-266,I,0.0
+ChemLLMBench-molecule_captioning-942,I,0.0
+ChemLLMBench-molecule_captioning-111,I,0.0
+ChemLLMBench-molecule_captioning-409,I,0.0
+ChemLLMBench-molecule_captioning-32,I,0.0
+ChemLLMBench-molecule_captioning-441,I,0.0
+ChemLLMBench-molecule_captioning-940,I,0.0
+ChemLLMBench-molecule_captioning-70,I,0.0
+ChemLLMBench-molecule_captioning-109,I,0.0
+ChemLLMBench-molecule_captioning-339,I,0.0
+ChemLLMBench-molecule_captioning-546,I,0.0
+ChemLLMBench-molecule_captioning-674,I,0.0
+ChemLLMBench-molecule_captioning-75,I,0.0
+ChemLLMBench-molecule_captioning-931,I,0.0
+ChemLLMBench-molecule_design-550,I,0.0
+ChemLLMBench-molecule_design-500,I,0.0
+ChemLLMBench-molecule_design-313,I,0.0
+ChemLLMBench-molecule_design-618,I,0.0
+ChemLLMBench-molecule_design-821,I,0.0
+ChemLLMBench-molecule_design-742,I,0.0
+ChemLLMBench-molecule_design-68,I,0.0
+ChemLLMBench-molecule_design-549,I,0.0
+ChemLLMBench-molecule_design-452,I,0.0
+ChemLLMBench-molecule_design-979,I,0.0
+ChemLLMBench-molecule_design-600,I,0.0
+ChemLLMBench-molecule_design-850,C,1.0
+ChemLLMBench-molecule_design-942,I,0.0
+ChemLLMBench-molecule_design-463,I,0.0
+ChemLLMBench-molecule_design-61,I,0.0
+ChemLLMBench-molecule_design-111,I,0.0
+ChemLLMBench-molecule_design-527,I,0.0
+ChemLLMBench-molecule_design-750,I,0.0
+ChemLLMBench-molecule_design-409,I,0.0
+ChemLLMBench-molecule_design-614,I,0.0
+ChemLLMBench-molecule_design-696,I,0.0
+ChemLLMBench-molecule_design-837,I,0.0
+ChemLLMBench-molecule_design-926,I,0.0
+ChemLLMBench-molecule_design-232,I,0.0
+ChemLLMBench-molecule_design-4,I,0.0
+ChemLLMBench-molecule_design-110,C,1.0
+ChemLLMBench-molecule_design-119,I,0.0
+ChemLLMBench-molecule_design-251,I,0.0
+ChemLLMBench-molecule_design-82,C,1.0
+ChemLLMBench-molecule_design-798,I,0.0
+ChemLLMBench-molecule_design-483,I,0.0
+ChemLLMBench-molecule_design-630,I,0.0
+ChemLLMBench-molecule_design-317,I,0.0
+ChemLLMBench-molecule_design-533,I,0.0
+ChemLLMBench-molecule_design-581,I,0.0
+ChemLLMBench-molecule_design-706,I,0.0
+ChemLLMBench-molecule_design-7,I,0.0
+ChemLLMBench-molecule_design-133,I,0.0
+ChemLLMBench-molecule_design-697,I,0.0
+ChemLLMBench-molecule_design-109,I,0.0
+ChemLLMBench-molecule_design-998,I,0.0
+ChemLLMBench-molecule_design-468,I,0.0
+ChemLLMBench-molecule_design-711,I,0.0
+ChemLLMBench-molecule_design-716,I,0.0
+ChemLLMBench-molecule_design-84,I,0.0
+ChemLLMBench-molecule_design-674,I,0.0
+ChemLLMBench-molecule_design-883,I,0.0
+ChemLLMBench-name_prediction-661,I,0.0
+ChemLLMBench-name_prediction-77,I,0.0
+ChemLLMBench-name_prediction-211,I,0.0
+ChemLLMBench-name_prediction-371,I,0.0
+ChemLLMBench-name_prediction-571,I,0.0
+ChemLLMBench-name_prediction-680,I,0.0
+ChemLLMBench-name_prediction-452,I,0.0
+ChemLLMBench-name_prediction-219,I,0.0
+ChemLLMBench-name_prediction-978,I,0.0
+ChemLLMBench-name_prediction-698,I,0.0
+ChemLLMBench-name_prediction-299,I,0.0
+ChemLLMBench-name_prediction-690,I,0.0
+ChemLLMBench-name_prediction-356,I,0.0
+ChemLLMBench-name_prediction-949,I,0.0
+ChemLLMBench-name_prediction-79,I,0.0
+ChemLLMBench-name_prediction-166,I,0.0
+ChemLLMBench-name_prediction-908,I,0.0
+ChemLLMBench-name_prediction-515,I,0.0
+ChemLLMBench-name_prediction-632,I,0.0
+ChemLLMBench-name_prediction-951,I,0.0
+ChemLLMBench-name_prediction-947,I,0.0
+ChemLLMBench-name_prediction-797,I,0.0
+ChemLLMBench-name_prediction-708,I,0.0
+ChemLLMBench-name_prediction-454,I,0.0
+ChemLLMBench-name_prediction-229,I,0.0
+ChemLLMBench-name_prediction-507,I,0.0
+ChemLLMBench-name_prediction-904,I,0.0
+ChemLLMBench-name_prediction-29,I,0.0
+ChemLLMBench-name_prediction-141,I,0.0
+ChemLLMBench-name_prediction-174,I,0.0
+ChemLLMBench-name_prediction-746,I,0.0
+ChemLLMBench-name_prediction-695,I,0.0
+ChemLLMBench-name_prediction-927,I,0.0
+ChemLLMBench-name_prediction-339,I,0.0
+ChemLLMBench-name_prediction-921,I,0.0
+ChemLLMBench-name_prediction-84,I,0.0
+ChemLLMBench-name_prediction-361,I,0.0
+ChemLLMBench-name_prediction-586,I,0.0
+ChemLLMBench-name_prediction-962,I,0.0
+ChemLLMBench-name_prediction-458,I,0.0
+ChemLLMBench-name_prediction-534,I,0.0
+ChemLLMBench-name_prediction-44,I,0.0
+ChemLLMBench-reaction_prediction-948,I,0.0
+ChemLLMBench-reaction_prediction-579,I,0.0
+ChemLLMBench-reaction_prediction-590,I,0.0
+ChemLLMBench-reaction_prediction-308,I,0.0
+ChemLLMBench-reaction_prediction-999,I,0.0
+ChemLLMBench-reaction_prediction-238,I,0.0
+ChemLLMBench-reaction_prediction-480,I,0.0
+ChemLLMBench-reaction_prediction-495,I,0.0
+ChemLLMBench-reaction_prediction-200,I,0.0
+ChemLLMBench-reaction_prediction-32,I,0.0
+ChemLLMBench-reaction_prediction-82,I,0.0
+ChemLLMBench-reaction_prediction-291,I,0.0
+ChemLLMBench-reaction_prediction-718,I,0.0
+ChemLLMBench-reaction_prediction-335,I,0.0
+ChemLLMBench-reaction_prediction-134,I,0.0
+ChemLLMBench-reaction_prediction-74,I,0.0
+ChemLLMBench-reaction_prediction-775,I,0.0
+ChemLLMBench-reaction_prediction-25,I,0.0
+ChemLLMBench-reaction_prediction-921,I,0.0
+ChemLLMBench-reaction_prediction-484,I,0.0
+ChemLLMBench-reaction_prediction-457,I,0.0
+ChemLLMBench-reaction_prediction-583,I,0.0
+ChemLLMBench-reaction_prediction-177,I,0.0
+ChemLLMBench-reaction_prediction-164,I,0.0
+ChemLLMBench-reaction_prediction-376,I,0.0
+ChemLLMBench-retrosynthesis-523,I,0.0
+ChemLLMBench-retrosynthesis-352,I,0.0
+ChemLLMBench-retrosynthesis-986,I,0.0
+ChemLLMBench-retrosynthesis-979,I,0.0
+ChemLLMBench-retrosynthesis-463,I,0.0
+ChemLLMBench-retrosynthesis-690,I,0.0
+ChemLLMBench-retrosynthesis-364,I,0.0
+ChemLLMBench-retrosynthesis-846,I,0.0
+ChemLLMBench-retrosynthesis-830,I,0.0
+ChemLLMBench-retrosynthesis-166,I,0.0
+ChemLLMBench-retrosynthesis-656,I,0.0
+ChemLLMBench-retrosynthesis-205,I,0.0
+ChemLLMBench-retrosynthesis-381,I,0.0
+ChemLLMBench-retrosynthesis-491,I,0.0
+ChemLLMBench-retrosynthesis-947,I,0.0
+ChemLLMBench-retrosynthesis-229,I,0.0
+ChemLLMBench-retrosynthesis-303,I,0.0
+ChemLLMBench-retrosynthesis-533,I,0.0
+ChemLLMBench-retrosynthesis-70,I,0.0
+ChemLLMBench-retrosynthesis-775,I,0.0
+ChemLLMBench-retrosynthesis-927,I,0.0
+ChemLLMBench-retrosynthesis-265,I,0.0
+ChemLLMBench-retrosynthesis-833,I,0.0
+ChemLLMBench-retrosynthesis-882,I,0.0
+ChemLLMBench-retrosynthesis-164,I,0.0
+ChemLLMBench-retrosynthesis-410,I,0.0
+ChemLLMBench-retrosynthesis-922,I,0.0
+ChemLLMBench-retrosynthesis-44,I,0.0
+Data Analysis-cta-27,I,0.0
+Data Analysis-cta-5,C,1.0
+Data Analysis-cta-38,I,0.0
+Data Analysis-cta-12,I,0.0
+Data Analysis-cta-23,I,0.0
+Date Arithmetic-Date Arithmetic-362,C,1.0
+Date Arithmetic-Date Arithmetic-375,I,0.0
+Date Arithmetic-Date Arithmetic-395,I,0.0
+Date Arithmetic-Date Arithmetic-125,C,1.0
+Date Arithmetic-Date Arithmetic-69,C,1.0
+Date Arithmetic-Date Arithmetic-407,C,1.0
+Date Arithmetic-Date Arithmetic-389,C,1.0
+Date Arithmetic-Date Arithmetic-491,I,0.0
+Date Arithmetic-Date Arithmetic-71,I,0.0
+Date Arithmetic-Date Arithmetic-210,C,1.0
+Date Arithmetic-Date Arithmetic-12,I,0.0
+Date Arithmetic-Date Arithmetic-411,C,1.0
+Date Arithmetic-Date Arithmetic-19,C,1.0
+Date Arithmetic-Date Arithmetic-80,I,0.0
+Date Arithmetic-Date Arithmetic-353,I,0.0
+Date Arithmetic-Date Arithmetic-363,I,0.0
+Date Arithmetic-Date Arithmetic-325,I,0.0
+Date Arithmetic-Date Arithmetic-250,C,1.0
+Date Arithmetic-Date Arithmetic-154,I,0.0
+Date Arithmetic-Date Arithmetic-330,C,1.0
+Date Arithmetic-Date Arithmetic-267,I,0.0
+Date Arithmetic-Date Arithmetic-46,I,0.0
+Date Arithmetic-Date Arithmetic-276,C,1.0
+Date Arithmetic-Date Arithmetic-68,C,1.0
+Date Arithmetic-Date Arithmetic-401,C,1.0
+Date Arithmetic-Date Arithmetic-93,C,1.0
+Date Arithmetic-Date Arithmetic-153,C,1.0
+Date Arithmetic-Date Arithmetic-368,C,1.0
+Date Arithmetic-Date Arithmetic-75,C,1.0
+Date Arithmetic-Date Arithmetic-251,C,1.0
+Date Arithmetic-Date Arithmetic-120,C,1.0
+Date Arithmetic-Date Arithmetic-355,I,0.0
+Date Arithmetic-Date Arithmetic-383,C,1.0
+Date Arithmetic-Date Arithmetic-275,I,0.0
+Date Arithmetic-Date Arithmetic-37,C,1.0
+Date Arithmetic-Date Arithmetic-361,C,1.0
+Date Arithmetic-Date Arithmetic-159,C,1.0
+Date Arithmetic-Date Arithmetic-168,C,1.0
+Date Arithmetic-Date Arithmetic-297,C,1.0
+Date Arithmetic-Date Arithmetic-298,I,0.0
+Date Arithmetic-Date Arithmetic-408,C,1.0
+Date Arithmetic-Date Arithmetic-203,I,0.0
+Date Arithmetic-Date Arithmetic-352,I,0.0
+Date Arithmetic-Date Arithmetic-445,C,1.0
+Date Arithmetic-Date Arithmetic-397,C,1.0
+Date Arithmetic-Date Arithmetic-482,I,0.0
+Date Arithmetic-Date Arithmetic-423,I,0.0
+Date Arithmetic-Date Arithmetic-259,I,0.0
+Date Arithmetic-Date Arithmetic-108,C,1.0
+Date Arithmetic-Date Arithmetic-171,I,0.0
+Date Arithmetic-Date Arithmetic-222,C,1.0
+Date Arithmetic-Date Arithmetic-241,I,0.0
+Date Arithmetic-Date Arithmetic-179,I,0.0
+Date Arithmetic-Date Arithmetic-413,C,1.0
+Date Arithmetic-Date Arithmetic-5,C,1.0
+Date Arithmetic-Date Arithmetic-227,C,1.0
+Date Arithmetic-Date Arithmetic-201,I,0.0
+Date Arithmetic-Date Arithmetic-28,I,0.0
+Date Arithmetic-Date Arithmetic-15,C,1.0
+Date Arithmetic-Date Arithmetic-404,C,1.0
+Date Arithmetic-Date Arithmetic-338,C,1.0
+Date Arithmetic-Date Arithmetic-213,C,1.0
+Date Arithmetic-Date Arithmetic-487,I,0.0
+Date Arithmetic-Date Arithmetic-304,C,1.0
+Date Arithmetic-Date Arithmetic-218,C,1.0
+Date Arithmetic-Date Arithmetic-310,C,1.0
+Date Arithmetic-Date Arithmetic-54,I,0.0
+Date Arithmetic-Date Arithmetic-50,C,1.0
+Date Arithmetic-Date Arithmetic-206,C,1.0
+Date Arithmetic-Date Arithmetic-264,I,0.0
+Date Arithmetic-Date Arithmetic-329,C,1.0
+Date Arithmetic-Date Arithmetic-175,C,1.0
+Date Arithmetic-Date Arithmetic-345,I,0.0
+Date Arithmetic-Date Arithmetic-192,I,0.0
+Date Arithmetic-Date Arithmetic-131,C,1.0
+Date Arithmetic-Date Arithmetic-373,C,1.0
+Date Arithmetic-Date Arithmetic-88,C,1.0
+Date Arithmetic-Date Arithmetic-459,I,0.0
+Date Arithmetic-Date Arithmetic-331,I,0.0
+Date Arithmetic-Date Arithmetic-467,C,1.0
+Date Arithmetic-Date Arithmetic-72,I,0.0
+Language-connections-14,I,0.0
+Language-connections-9,C,1.0
+Language-connections-17,I,0.0
+Language-connections-30,C,1.0
+Language-connections-11,I,0.0
+Math-AMPS_Hard-142,C,1.0
+Math-AMPS_Hard-146,C,1.0
+Math-AMPS_Hard-35,I,0.0
+Math-AMPS_Hard-121,I,0.0
+Math-AMPS_Hard-18,I,0.0
+Math-AMPS_Hard-64,I,0.0
+Math-AMPS_Hard-127,I,0.0
+Math-AMPS_Hard-100,C,1.0
+Math-AMPS_Hard-103,I,0.0
+Math-olympiad-62,I,0.0
+MedCalcBench-date-35,I,0.0
+MedCalcBench-lab-56,C,1.0
+MedCalcBench-lab-23,I,0.0
+MedCalcBench-lab-185,I,0.0
+MedCalcBench-lab-285,I,0.0
+MedCalcBench-lab-14,I,0.0
+MedCalcBench-physical-110,I,0.0
+MedCalcBench-physical-115,I,0.0
+MedCalcBench-physical-126,I,0.0
+MedCalcBench-physical-26,C,1.0
+MedCalcBench-physical-39,C,1.0
+MedCalcBench-physical-36,C,1.0
+MedCalcBench-physical-191,I,0.0
+MedCalcBench-physical-27,C,1.0
+MedCalcBench-physical-5,C,1.0
+MedCalcBench-physical-40,C,1.0
+MedCalcBench-physical-221,I,0.0
+MedCalcBench-physical-226,C,1.0
+MedCalcBench-risk-68,I,0.0
+MedCalcBench-risk-102,C,1.0
+MedCalcBench-risk-69,C,1.0
+MedCalcBench-risk-90,I,0.0
+MenatQA-MenatQA-Counterfactual-67,C,1.0
+MenatQA-MenatQA-Counterfactual-187,I,0.0
+MenatQA-MenatQA-Counterfactual-83,C,1.0
+MenatQA-MenatQA-Counterfactual-141,C,1.0
+MenatQA-MenatQA-Counterfactual-98,C,1.0
+MenatQA-MenatQA-Counterfactual-91,C,1.0
+MenatQA-MenatQA-Counterfactual-137,C,1.0
+MenatQA-MenatQA-Counterfactual-119,C,1.0
+MenatQA-MenatQA-Counterfactual-23,I,0.0
+MenatQA-MenatQA-Counterfactual-167,C,1.0
+MenatQA-MenatQA-Counterfactual-154,I,0.0
+MenatQA-MenatQA-Counterfactual-108,C,1.0
+MenatQA-MenatQA-Counterfactual-180,I,0.0
+MenatQA-MenatQA-Order-67,C,1.0
+MenatQA-MenatQA-Order-57,C,1.0
+MenatQA-MenatQA-Order-126,C,1.0
+MenatQA-MenatQA-Order-77,C,1.0
+MenatQA-MenatQA-Order-80,C,1.0
+MenatQA-MenatQA-Order-78,C,1.0
+MenatQA-MenatQA-Order-188,I,0.0
+MenatQA-MenatQA-Order-162,C,1.0
+MenatQA-MenatQA-Order-62,I,0.0
+MenatQA-MenatQA-Order-7,C,1.0
+MenatQA-MenatQA-Order-110,C,1.0
+MenatQA-MenatQA-Order-113,C,1.0
+MenatQA-MenatQA-Order-71,C,1.0
+MenatQA-MenatQA-Order-65,C,1.0
+MenatQA-MenatQA-Order-148,C,1.0
+MenatQA-MenatQA-Order-155,C,1.0
+MenatQA-MenatQA-Order-81,C,1.0
+MenatQA-MenatQA-Order-90,I,0.0
+MenatQA-MenatQA-Order-14,I,0.0
+MenatQA-MenatQA-Order-72,C,1.0
+MenatQA-MenatQA-Order-93,C,1.0
+MenatQA-MenatQA-Scope-85,I,0.0
+MenatQA-MenatQA-Scope-31,I,0.0
+MenatQA-MenatQA-Scope-462,C,1.0
+MenatQA-MenatQA-Scope-91,I,0.0
+MenatQA-MenatQA-Scope-323,C,1.0
+MenatQA-MenatQA-Scope-118,C,1.0
+MenatQA-MenatQA-Scope-223,I,0.0
+MenatQA-MenatQA-Scope-176,I,0.0
+MenatQA-MenatQA-Scope-251,C,1.0
+MenatQA-MenatQA-Scope-311,C,1.0
+MenatQA-MenatQA-Scope-245,I,0.0
+MenatQA-MenatQA-Scope-90,C,1.0
+MenatQA-MenatQA-Scope-437,I,0.0
+MenatQA-MenatQA-Scope-178,C,1.0
+MenatQA-MenatQA-Scope-148,I,0.0
+MenatQA-MenatQA-Scope-124,C,1.0
+MenatQA-MenatQA-Scope-369,C,1.0
+MenatQA-MenatQA-Scope-396,C,1.0
+MenatQA-MenatQA-Scope-108,C,1.0
+MenatQA-MenatQA-Scope-461,C,1.0
+MenatQA-MenatQA-Scope-160,C,1.0
+MenatQA-MenatQA-Scope-399,C,1.0
+MenatQA-MenatQA-Scope-28,C,1.0
+MenatQA-MenatQA-Scope-320,C,1.0
+MenatQA-MenatQA-Scope-309,C,1.0
+MenatQA-MenatQA-Scope-215,I,0.0
+OmniMath-Algebra-627,C,1.0
+OmniMath-Algebra-860,I,0.0
+OmniMath-Algebra-762,I,0.0
+OmniMath-Algebra-528,C,1.0
+OmniMath-Algebra-948,I,0.0
+OmniMath-Algebra-902,C,1.0
+OmniMath-Algebra-602,I,0.0
+OmniMath-Algebra-210,I,0.0
+OmniMath-Algebra-290,C,1.0
+OmniMath-Algebra-319,I,0.0
+OmniMath-Algebra-549,C,1.0
+OmniMath-Algebra-754,C,1.0
+OmniMath-Algebra-328,I,0.0
+OmniMath-Algebra-89,I,0.0
+OmniMath-Algebra-937,C,1.0
+OmniMath-Algebra-824,C,1.0
+OmniMath-Algebra-426,I,0.0
+OmniMath-Algebra-560,C,1.0
+OmniMath-Algebra-266,I,0.0
+OmniMath-Algebra-996,I,0.0
+OmniMath-Algebra-322,I,0.0
+OmniMath-Algebra-430,C,1.0
+OmniMath-Algebra-61,I,0.0
+OmniMath-Algebra-885,C,1.0
+OmniMath-Algebra-650,C,1.0
+OmniMath-Algebra-480,C,1.0
+OmniMath-Algebra-990,I,0.0
+OmniMath-Algebra-949,C,1.0
+OmniMath-Algebra-50,I,0.0
+OmniMath-Algebra-345,I,0.0
+OmniMath-Algebra-576,I,0.0
+OmniMath-Algebra-34,C,1.0
+OmniMath-Algebra-205,C,1.0
+OmniMath-Algebra-78,I,0.0
+OmniMath-Algebra-83,I,0.0
+OmniMath-Algebra-267,C,1.0
+OmniMath-Algebra-798,C,1.0
+OmniMath-Algebra-947,I,0.0
+OmniMath-Algebra-502,I,0.0
+OmniMath-Algebra-429,C,1.0
+OmniMath-Algebra-629,I,0.0
+OmniMath-Algebra-170,C,1.0
+OmniMath-Algebra-186,C,1.0
+OmniMath-Algebra-448,C,1.0
+OmniMath-Algebra-368,I,0.0
+OmniMath-Algebra-361,C,1.0
+OmniMath-Algebra-279,C,1.0
+OmniMath-Algebra-183,I,0.0
+OmniMath-Algebra-874,I,0.0
+OmniMath-Algebra-670,I,0.0
+OmniMath-Algebra-391,C,1.0
+OmniMath-Algebra-989,C,1.0
+OmniMath-Algebra-43,C,1.0
+OmniMath-Algebra-598,C,1.0
+OmniMath-Algebra-179,I,0.0
+OmniMath-Applied Mathematics-704,C,1.0
+OmniMath-Applied Mathematics-607,C,1.0
+OmniMath-Applied Mathematics-546,C,1.0
+OmniMath-Applied Mathematics-55,I,0.0
+OmniMath-Applied Mathematics-437,I,0.0
+OmniMath-Applied Mathematics-149,I,0.0
+OmniMath-Applied Mathematics-596,C,1.0
+OmniMath-Applied Mathematics-537,C,1.0
+OmniMath-Applied Mathematics-31,I,0.0
+OmniMath-Applied Mathematics-679,C,1.0
+OmniMath-Applied Mathematics-528,C,1.0
+OmniMath-Applied Mathematics-573,I,0.0
+OmniMath-Applied Mathematics-56,I,0.0
+OmniMath-Applied Mathematics-569,C,1.0
+OmniMath-Applied Mathematics-684,C,1.0
+OmniMath-Applied Mathematics-683,I,0.0
+OmniMath-Applied Mathematics-699,C,1.0
+OmniMath-Applied Mathematics-523,I,0.0
+OmniMath-Applied Mathematics-690,I,0.0
+OmniMath-Applied Mathematics-550,C,1.0
+OmniMath-Applied Mathematics-517,C,1.0
+OmniMath-Applied Mathematics-685,I,0.0
+OmniMath-Applied Mathematics-678,C,1.0
+OmniMath-Applied Mathematics-10,I,0.0
+OmniMath-Applied Mathematics-423,C,1.0
+OmniMath-Applied Mathematics-590,C,1.0
+OmniMath-Applied Mathematics-330,I,0.0
+OmniMath-Applied Mathematics-76,I,0.0
+OmniMath-Applied Mathematics-89,I,0.0
+OmniMath-Applied Mathematics-229,I,0.0
+OmniMath-Applied Mathematics-364,I,0.0
+OmniMath-Applied Mathematics-661,C,1.0
+OmniMath-Applied Mathematics-531,C,1.0
+OmniMath-Applied Mathematics-703,I,0.0
+OmniMath-Applied Mathematics-721,I,0.0
+OmniMath-Applied Mathematics-663,C,1.0
+OmniMath-Applied Mathematics-674,I,0.0
+OmniMath-Applied Mathematics-26,I,0.0
+OmniMath-Applied Mathematics-174,I,0.0
+OmniMath-Applied Mathematics-660,C,1.0
+OmniMath-Applied Mathematics-672,C,1.0
+OmniMath-Applied Mathematics-726,I,0.0
+OmniMath-Applied Mathematics-552,C,1.0
+OmniMath-Applied Mathematics-695,I,0.0
+OmniMath-Applied Mathematics-706,I,0.0
+OmniMath-Applied Mathematics-494,I,0.0
+OmniMath-Applied Mathematics-522,I,0.0
+OmniMath-Applied Mathematics-582,C,1.0
+OmniMath-Applied Mathematics-639,C,1.0
+OmniMath-Calculus-1,I,0.0
+OmniMath-Calculus-44,C,1.0
+OmniMath-Calculus-56,I,0.0
+OmniMath-Calculus-20,I,0.0
+OmniMath-Calculus-31,C,1.0
+OmniMath-Calculus-40,C,1.0
+OmniMath-Calculus-39,I,0.0
+OmniMath-Discrete Mathematics-197,C,1.0
+OmniMath-Discrete Mathematics-193,C,1.0
+OmniMath-Discrete Mathematics-608,C,1.0
+OmniMath-Discrete Mathematics-236,I,0.0
+OmniMath-Discrete Mathematics-409,I,0.0
+OmniMath-Discrete Mathematics-369,C,1.0
+OmniMath-Discrete Mathematics-312,I,0.0
+OmniMath-Discrete Mathematics-611,I,0.0
+OmniMath-Discrete Mathematics-383,I,0.0
+OmniMath-Discrete Mathematics-305,I,0.0
+OmniMath-Discrete Mathematics-394,I,0.0
+OmniMath-Discrete Mathematics-418,I,0.0
+OmniMath-Discrete Mathematics-552,I,0.0
+OmniMath-Discrete Mathematics-299,I,0.0
+OmniMath-Discrete Mathematics-186,I,0.0
+OmniMath-Discrete Mathematics-375,I,0.0
+OmniMath-Discrete Mathematics-345,I,0.0
+OmniMath-Discrete Mathematics-538,I,0.0
+OmniMath-Discrete Mathematics-181,I,0.0
+OmniMath-Discrete Mathematics-49,I,0.0
+OmniMath-Discrete Mathematics-230,I,0.0
+OmniMath-Discrete Mathematics-399,C,1.0
+OmniMath-Discrete Mathematics-507,I,0.0
+OmniMath-Discrete Mathematics-536,C,1.0
+OmniMath-Discrete Mathematics-581,I,0.0
+OmniMath-Discrete Mathematics-440,I,0.0
+OmniMath-Discrete Mathematics-165,I,0.0
+OmniMath-Discrete Mathematics-348,C,1.0
+OmniMath-Discrete Mathematics-44,I,0.0
+OmniMath-Discrete Mathematics-533,C,1.0
+OmniMath-Geometry-68,C,1.0
+OmniMath-Geometry-248,I,0.0
+OmniMath-Geometry-454,I,0.0
+OmniMath-Geometry-50,I,0.0
+OmniMath-Geometry-232,I,0.0
+OmniMath-Geometry-295,I,0.0
+OmniMath-Geometry-381,I,0.0
+OmniMath-Geometry-444,I,0.0
+OmniMath-Geometry-343,I,0.0
+OmniMath-Geometry-110,C,1.0
+OmniMath-Geometry-452,I,0.0
+OmniMath-Geometry-205,I,0.0
+OmniMath-Geometry-676,I,0.0
+OmniMath-Geometry-429,I,0.0
+OmniMath-Geometry-366,I,0.0
+OmniMath-Geometry-430,I,0.0
+OmniMath-Geometry-91,I,0.0
+OmniMath-Geometry-691,C,1.0
+OmniMath-Geometry-165,I,0.0
+OmniMath-Geometry-483,I,0.0
+OmniMath-Geometry-74,C,1.0
+OmniMath-Geometry-632,C,1.0
+OmniMath-Geometry-109,C,1.0
+OmniMath-Geometry-276,I,0.0
+OmniMath-Geometry-177,I,0.0
+OmniMath-Geometry-631,I,0.0
+OmniMath-Geometry-693,I,0.0
+OmniMath-Geometry-257,I,0.0
+OmniMath-Geometry-621,I,0.0
+OmniMath-Geometry-405,I,0.0
+OmniMath-Geometry-389,I,0.0
+OmniMath-Geometry-671,I,0.0
+OmniMath-Geometry-1,C,1.0
+OmniMath-Geometry-718,C,1.0
+OmniMath-Geometry-319,I,0.0
+OmniMath-Geometry-145,I,0.0
+OmniMath-Geometry-350,C,1.0
+OmniMath-Geometry-60,I,0.0
+OmniMath-Geometry-577,I,0.0
+OmniMath-Geometry-609,C,1.0
+OmniMath-Geometry-180,I,0.0
+OmniMath-Geometry-535,I,0.0
+OmniMath-Geometry-321,I,0.0
+OmniMath-Geometry-591,C,1.0
+OmniMath-Geometry-469,I,0.0
+OmniMath-Geometry-569,I,0.0
+OmniMath-Geometry-555,C,1.0
+OmniMath-Geometry-536,I,0.0
+OmniMath-Geometry-774,I,0.0
+OmniMath-Geometry-172,I,0.0
+OmniMath-Geometry-17,I,0.0
+OmniMath-Geometry-724,I,0.0
+OmniMath-Number Theory-551,I,0.0
+OmniMath-Number Theory-354,I,0.0
+OmniMath-Number Theory-3,I,0.0
+OmniMath-Number Theory-189,I,0.0
+OmniMath-Number Theory-74,I,0.0
+OmniMath-Number Theory-578,C,1.0
+OmniMath-Number Theory-494,I,0.0
+OmniMath-Number Theory-177,I,0.0
+OmniMath-Number Theory-504,I,0.0
+OmniMath-Number Theory-430,I,0.0
+OmniMath-Number Theory-83,I,0.0
+OmniMath-Number Theory-518,C,1.0
+OmniMath-Number Theory-541,I,0.0
+OmniMath-Number Theory-515,I,0.0
+OmniMath-Number Theory-311,I,0.0
+OmniMath-Number Theory-447,I,0.0
+OmniMath-Number Theory-76,C,1.0
+OmniMath-Number Theory-23,I,0.0
+OmniMath-Number Theory-205,C,1.0
+OmniMath-Number Theory-530,I,0.0
+OmniMath-Number Theory-250,C,1.0
+OmniMath-Number Theory-361,C,1.0
+OmniMath-Number Theory-142,I,0.0
+OmniMath-Number Theory-526,I,0.0
+OmniMath-Number Theory-427,I,0.0
+OmniMath-Number Theory-335,I,0.0
+OmniMath-Number Theory-342,C,1.0
+OmniMath-Number Theory-554,C,1.0
+OmniMath-Number Theory-230,I,0.0
+OmniMath-Number Theory-158,I,0.0
+OmniMath-Number Theory-496,C,1.0
+OmniMath-Number Theory-347,C,1.0
+OmniMath-Number Theory-298,I,0.0
+OmniMath-Number Theory-199,I,0.0
+OmniMath-Number Theory-527,I,0.0
+OmniMath-Number Theory-97,C,1.0
+OmniMath-Number Theory-294,I,0.0
+OmniMath-Number Theory-86,I,0.0
+OmniMath-Number Theory-160,I,0.0
+OmniMath-Number Theory-36,I,0.0
+OmniMath-Number Theory-29,I,0.0
+OmniMath-Number Theory-237,C,1.0
+OmniMath-Number Theory-52,I,0.0
+OmniMath-Number Theory-517,I,0.0
+OmniMath-Number Theory-328,C,1.0
+OmniMath-Precalculus-49,I,0.0
+OmniMath-Precalculus-38,C,1.0
+OmniMath-Precalculus-7,C,1.0
+OmniMath-Precalculus-10,I,0.0
+OmniMath-Precalculus-17,I,0.0
+OmniMath-Precalculus-32,I,0.0
+OmniMath-Precalculus-41,I,0.0
+OmniMath-Precalculus-11,I,0.0
+Reasoning-spatial-40,C,1.0
+Reasoning-spatial-13,C,1.0
+Reasoning-spatial-35,I,0.0
+Reasoning-spatial-45,I,0.0
+Reasoning-spatial-36,I,0.0
+Reasoning-zebra_puzzle-40,I,0.0
+Reasoning-zebra_puzzle-10,I,0.0
+Reasoning-zebra_puzzle-2,I,0.0
+SciBench-Chemistry-153,I,0.0
+SciBench-Chemistry-26,I,0.0
+SciBench-Chemistry-235,I,0.0
+SciBench-Chemistry-97,C,1.0
+SciBench-Chemistry-70,I,0.0
+SciBench-Chemistry-30,I,0.0
+SciBench-Chemistry-27,I,0.0
+SciBench-Chemistry-1,I,0.0
+SciBench-Chemistry-24,I,0.0
+SciBench-Chemistry-162,I,0.0
+SciBench-Chemistry-81,I,0.0
+SciBench-Chemistry-231,C,1.0
+SciBench-Chemistry-73,C,1.0
+SciBench-Math-105,I,0.0
+SciBench-Math-46,C,1.0
+SciBench-Math-41,I,0.0
+SciBench-Math-143,I,0.0
+SciBench-Math-129,C,1.0
+SciBench-Math-3,C,1.0
+SciBench-Physics-10,I,0.0
+SciBench-Physics-177,I,0.0
+SciBench-Physics-56,I,0.0
+SciBench-Physics-195,I,0.0
+SciBench-Physics-80,I,0.0
+SciBench-Physics-113,I,0.0
+SciBench-Physics-109,I,0.0
+SciBench-Physics-25,I,0.0
+SciBench-Physics-67,I,0.0
+SciBench-Physics-151,I,0.0
+SciBench-Physics-3,I,0.0
+SciBench-Physics-138,I,0.0
+SciBench-Physics-40,I,0.0
+SciBench-Physics-135,C,1.0
+SciBench-Physics-21,I,0.0
+TempReason-TempReason-L2-407,C,1.0
+TempReason-TempReason-L2-334,I,0.0
+TempReason-TempReason-L2-186,C,1.0
+TempReason-TempReason-L2-269,I,0.0
+TempReason-TempReason-L2-127,I,0.0
+TempReason-TempReason-L2-32,I,0.0
+TempReason-TempReason-L2-114,I,0.0
+TempReason-TempReason-L2-427,I,0.0
+TempReason-TempReason-L2-4,C,1.0
+TempReason-TempReason-L2-406,I,0.0
+TempReason-TempReason-L2-153,I,0.0
+TempReason-TempReason-L2-168,C,1.0
+TempReason-TempReason-L2-443,I,0.0
+TempReason-TempReason-L2-203,I,0.0
+TempReason-TempReason-L2-234,C,1.0
+TempReason-TempReason-L2-403,C,1.0
+TempReason-TempReason-L2-485,I,0.0
+TempReason-TempReason-L2-379,I,0.0
+TempReason-TempReason-L2-42,I,0.0
+TempReason-TempReason-L2-41,C,1.0
+TempReason-TempReason-L2-458,I,0.0
+TempReason-TempReason-L2-483,C,1.0
+TempReason-TempReason-L2-474,C,1.0
+TempReason-TempReason-L2-386,C,1.0
+TempReason-TempReason-L2-373,C,1.0
+TempReason-TempReason-L3-362,I,0.0
+TempReason-TempReason-L3-451,C,1.0
+TempReason-TempReason-L3-498,I,0.0
+TempReason-TempReason-L3-212,I,0.0
+TempReason-TempReason-L3-441,C,1.0
+TempReason-TempReason-L3-71,C,1.0
+TempReason-TempReason-L3-40,I,0.0
+TempReason-TempReason-L3-47,C,1.0
+TempReason-TempReason-L3-70,C,1.0
+TempReason-TempReason-L3-87,I,0.0
+TempReason-TempReason-L3-20,C,1.0
+TempReason-TempReason-L3-26,I,0.0
+TempReason-TempReason-L3-282,I,0.0
+TempReason-TempReason-L3-248,I,0.0
+TempReason-TempReason-L3-118,I,0.0
+TempReason-TempReason-L3-177,I,0.0
+TempReason-TempReason-L3-67,I,0.0
+TempReason-TempReason-L3-61,I,0.0
+TempReason-TempReason-L3-429,I,0.0
+TempReason-TempReason-L3-169,I,0.0
+TempReason-TempReason-L3-229,I,0.0
+TempReason-TempReason-L3-339,I,0.0
+TempReason-TempReason-L3-408,C,1.0
+TempReason-TempReason-L3-396,I,0.0
+TempReason-TempReason-L3-224,I,0.0
+TempReason-TempReason-L3-243,C,1.0
+TempReason-TempReason-L3-187,I,0.0
+TempReason-TempReason-L3-5,C,1.0
+TempReason-TempReason-L3-227,C,1.0
+TempReason-TempReason-L3-430,I,0.0
+TempReason-TempReason-L3-464,C,1.0
+TempReason-TempReason-L3-435,I,0.0
+TempReason-TempReason-L3-338,I,0.0
+TempReason-TempReason-L3-442,I,0.0
+TempReason-TempReason-L3-388,I,0.0
+TempReason-TempReason-L3-274,I,0.0
+TempReason-TempReason-L3-329,C,1.0
+TempReason-TempReason-L3-175,I,0.0
+TempReason-TempReason-L3-373,I,0.0
+TimeQA-TimeQA-explicit-74,C,1.0
+TimeQA-TimeQA-explicit-389,C,1.0
+TimeQA-TimeQA-explicit-317,C,1.0
+TimeQA-TimeQA-explicit-71,C,1.0
+TimeQA-TimeQA-explicit-64,C,1.0
+TimeQA-TimeQA-explicit-205,I,0.0
+TimeQA-TimeQA-explicit-80,C,1.0
+TimeQA-TimeQA-explicit-173,C,1.0
+TimeQA-TimeQA-explicit-282,C,1.0
+TimeQA-TimeQA-explicit-58,C,1.0
+TimeQA-TimeQA-explicit-25,C,1.0
+TimeQA-TimeQA-explicit-30,I,0.0
+TimeQA-TimeQA-explicit-176,C,1.0
+TimeQA-TimeQA-explicit-455,C,1.0
+TimeQA-TimeQA-explicit-169,C,1.0
+TimeQA-TimeQA-explicit-494,C,1.0
+TimeQA-TimeQA-explicit-246,C,1.0
+TimeQA-TimeQA-explicit-120,C,1.0
+TimeQA-TimeQA-explicit-400,C,1.0
+TimeQA-TimeQA-explicit-275,C,1.0
+TimeQA-TimeQA-explicit-39,C,1.0
+TimeQA-TimeQA-explicit-98,C,1.0
+TimeQA-TimeQA-explicit-184,C,1.0
+TimeQA-TimeQA-explicit-299,C,1.0
+TimeQA-TimeQA-explicit-29,C,1.0
+TimeQA-TimeQA-explicit-379,C,1.0
+TimeQA-TimeQA-explicit-42,C,1.0
+TimeQA-TimeQA-explicit-255,C,1.0
+TimeQA-TimeQA-explicit-425,C,1.0
+TimeQA-TimeQA-explicit-136,C,1.0
+TimeQA-TimeQA-explicit-380,C,1.0
+TimeQA-TimeQA-explicit-489,I,0.0
+TimeQA-TimeQA-explicit-54,C,1.0
+TimeQA-TimeQA-explicit-51,C,1.0
+TimeQA-TimeQA-explicit-253,C,1.0
+TimeQA-TimeQA-implicit-378,C,1.0
+TimeQA-TimeQA-implicit-10,C,1.0
+TimeQA-TimeQA-implicit-462,C,1.0
+TimeQA-TimeQA-implicit-410,C,1.0
+TimeQA-TimeQA-implicit-411,I,0.0
+TimeQA-TimeQA-implicit-452,C,1.0
+TimeQA-TimeQA-implicit-342,C,1.0
+TimeQA-TimeQA-implicit-318,C,1.0
+TimeQA-TimeQA-implicit-181,C,1.0
+TimeQA-TimeQA-implicit-415,C,1.0
+TimeQA-TimeQA-implicit-473,C,1.0
+TimeQA-TimeQA-implicit-17,I,0.0
+TimeQA-TimeQA-implicit-115,I,0.0
+TimeQA-TimeQA-implicit-455,C,1.0
+TimeQA-TimeQA-implicit-376,C,1.0
+TimeQA-TimeQA-implicit-120,I,0.0
+TimeQA-TimeQA-implicit-475,C,1.0
+TimeQA-TimeQA-implicit-113,C,1.0
+TimeQA-TimeQA-implicit-482,C,1.0
+TimeQA-TimeQA-implicit-42,I,0.0
+TimeQA-TimeQA-implicit-264,C,1.0
+TimeQA-TimeQA-implicit-135,C,1.0

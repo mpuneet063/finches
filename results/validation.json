@@ -1,0 +1,10 @@
+{
+  "llama-3.2-3b-instruct vs llama3d2-3b": {
+    "n_items": 2250,
+    "item_agreement": 0.774,
+    "accuracy_ours": 0.448,
+    "accuracy_paper": 0.422,
+    "item_agreement_MC": 0.751,
+    "item_agreement_Open-ended": 0.82
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "cheap_judge": "gpt-4o-mini",
+  "strong_judge": "gpt-4o",
+  "n": 200,
+  "agreement": 0.91,
+  "cohen_kappa": 0.813,
+  "pass_rate_cheap": 0.425,
+  "pass_rate_strong": 0.375,
+  "confusion": {
+    "C": {
+      "C": 71,
+      "I": 14
+    },
+    "I": {
+      "C": 4,
+      "I": 111
+    }
+  }
+}
