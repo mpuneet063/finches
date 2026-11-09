@@ -57,7 +57,7 @@ def main() -> None:
         if df.empty:
             log.info("[%s] no MC responses", name)
             continue
-        df.to_csv(out_dir / f"{name}_mc.csv", index=False)
+        df[["custom_id", "correct"]].to_csv(out_dir / f"{name}_mc.csv", index=False)
         no_letter = df["pred"].isna() & df["correct"].notna()
         log.info("[%s] MC accuracy %.3f on %d items (%d with no extractable letter)",
                  name, df["correct"].mean(), df["correct"].notna().sum(), int(no_letter.sum()))
